@@ -1,17 +1,17 @@
-  You are standing near the front of the Titanic on the starboard deck.  To the 	east a wooden rail follows the curve of the ship.  Behind you, to the south, are	the sounds of a wild party.  A misty breeze parts your hair in an awkward place,	and carries the message of an icy ocean.  As you gaze at the stars you discover 	that the rail serves well as a place to lean on.
-  Standing at the middle of the starboard deck you can barely view both ends,   	which lead east and west from here, gently curving inward.  In front of you are 	several lifeboats, each held in place by a thick rope.  Above and behind you is 	one of the ship's mammoth smoke stacks, releasing clouds of white smoke into the	night sky.
-  This end of the ship is dimly lit, allowing you to make out several new star  	clusters.  A large stack of misplaced cargo blocks your path to the east.       	Written on one of the crates is a faded message.  To the west you can still see 	numerous lifeboats hanging along the side of the Titanic.
-  You are within one of the many wooden lifeboats along this side of the ship.  	A single thick rope secures the boat to the Titanic.  You can still walk across 	the steps to the south to get back onto the great ship.  A small red kit is     	built into the side of the boat, just beside the first bench.
-  You are in a wooden life boat floating in the icy cold ocean.  A survival kit 	is built into the side of the framework.
-  You are standing in the middle of a huge cavern.  From the western wall a     	torrent gusher of water builds into a fast flowing underground stream, which    	heads to the east.  The cave follows the stream to the east, leading into a dark	area.  At this part of the cavern the walls appear to be as smooth as glass.
-  This cave is full of beautiful rock formations.  Long columns of stalagtites  	fill the cave from top to bottom.  The stream looks shallow here, it might be   	possible to wade across to get to the north side.  To the west you can still see	the strange light coming from the huge cavern.  The stream continues eastward   	while a seperate cave entrance leads to the southeast.
-You are awed by what you see.  You are standing directly underneath the ocean.  	The bottom, or ceiling from your viewpoint, is completely iced over,            	appearantly from the cool draft that pervades this area.
-  This is a cramped cave with a floor that feels like mud and smells like two   	month old socks.  On the wall in front of you are some strange chiseled         	markings.  The only way out is to the northwest.
-  At this point the stream makes a bend to the northeast.  A slight rumbling    	sound can be heard further down the stream.  The path to the west returns to    	the stalagtite cave, a separate path leads to the southeast.
-  At this point in the cave the stream falls into a deep chasm, forming a       	natural waterfall.  The cave walls are worn to the point of being as smooth as  	glass.  The only safe exit lies to the southwest.
-  The passage opens up to form another small, misty cave.  You notice something 	unusual about the eastern wall.  A new passage breaks off to the northeast.  To 	the west you can still hear the sound of the rushing stream.  A small opening in	the cave wall heads southwest.
-  This place is more a large crack than a cave.  The crevice widens a little    	revealing a sand covered floor.  The crack to the northeast leads back out.
-  You are in a large cave that is covered with a thick layer of mud.  The       	further north you walk the deeper you sink in!  Past the mud to the north you   	can see a clear area where a chasm cut through, and even further you can see    	where a waterfall flows into the chasm's darkness.  To the southwest a big hole 	in the wall leads out.
+  あなたはタイタニック号の右舷側に立っている。東の方には船の曲線に沿った木製の手	すりがある。あなたの後ろ、南からは賑やかな音が聞こえる。霧がかった風は髪を乱し、	海の冷たさを伝えている。手すりは頑丈で、もたれかかって星を見るにはちょうどよさそ	うだ。
+  右舷側の中央、船の両側がほとんど見えない場所に立っている。デッキは東と西に続い	ていて、緩やかに内側にカーブしている。あなたの前には何隻もの救命ボートがあり、ロ	ープで堅く繋がれている。後ろの頭上の遥か高くに、夜空に向かって煙を放つ船の巨大な	煙突の１つが見える。
+  船の端は薄暗く、今まで見えなかった星が見え始めた。雑に積まれた大きな貨物のせい	で先に勧めない。積荷の１つには消えかけた文字が書かれている。西にはタイタニック号	に繋がれた何隻もの救命ボートがまだ見える。
+  船の側面にある木製の救命ボートに乗っている。一本の丈夫なロープでタイタニック号	に繋がれている。南に跨いで行けばまだ船に戻ることができる。赤い小箱が最初の席のす	ぐ近くの側面に取り付けられている。
+  氷の海に浮かぶ木製の救命ボートに乗っている。サバイバルキットが側面の骨組みに取	り付けられている。
+  広い洞窟の中央に立っている。西側の壁から大量の水が吹き出ていて、それが東の方へ	激しく流れている。その先は真っ暗だ。このあたりの壁はまるでガラスのように滑らか  	だ。
+  このあたりの洞窟は岩がきれいに並んでいる。長い鍾乳石の柱が天井と地面を埋め尽く	している。川は浅くなっていて、北側にどうにか渡れそうだ。西の方を見ると、広い洞窟	の奇妙な光がまだ見える。川は東に続いていて、南東には別の洞窟への入り口がある。
+  驚くべき光景だ。あなたは海の底に立っている。床、そして天井は、見渡す限り氷で覆	われていて、冷たい水はどうやらここから流れ出ているようだ。
+  ここは狭く、泥のような感触と2ヶ月前の靴下のような臭いがする。前方の壁にはいく 	つかの奇妙な文字が刻まれている。通れる道は北西にしかない。
+  川はここで北東に曲がっている。下流の方の遠くからかすかに音が聞こえる。西には鍾	乳石の洞窟に戻る道があり、南東には分かれ道がある。
+  川が滝になって深い裂け目へと流れている。洞窟の壁はまるでガラスのように滑らか  	だ。安全な道は南西の出口しかない。
+  道は別の狭く霧がかった洞窟へとつながっていた。あなたは東の壁の何か奇妙なものに	気づいた。新しい道は北東で途切れている。西からは水が流れる音がまだ聞こえる。洞窟	の壁の小さな穴は南西へと続いている。
+  この場所は洞窟と言うよりは大きな裂け目だ。広くなっている部分には砂で覆われた地	面が見える。北東から戻ることができる。
+  深い泥が溜まった広い洞窟にいる。北の方ほど深くなっているようだ! その向こうには	泥のない深い裂け目があり、さらにその先には真っ暗な裂け目に流れ込む滝が見える。  	南西の大きな壁の穴を通ってここから出られる。
   You are at the turning point of a winding tunnel, mysteriously carved out of  	solid rock.  The rays of your flashlight fade into blackness in either          	direction.  The crumbled wall lies back to the west and the tunnel heads to the 	northwest.
   This is the northern end of a gigantic mud covered cave, to the south is a    	wide pit of mud oozing into a section of the chasm.  The chasm crosses in front 	of you, just west of where you are standing.  The ground here is much drier than	to the south.  A waterfall flows from the west side of the chasm into a seperate	section to the northwest.  You can scarcely hear a low humming sound coming from	within the chasm, sounding like a small generator running!
   You clinging to the end of the rope!  The chasm walls have narrowed a little  	here, and nearly form a tunnel below you.  The bottom is no where in sight!

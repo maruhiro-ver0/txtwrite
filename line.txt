@@ -1,36 +1,36 @@
-You freeze almost instantly, and sink to an icy grave!
-The misplaced cargo blocks your path.
-The cargo is much too heavy to be moved.
-Carefully, you manage to peel the overripe banana.
-In the distance you hear a new sound...a low rumbling, as eerie as the night.
-The gurgling sound grows louder.
-You now sense new ripples in the water rocking your boat slightly.
-How, without any ores?
-The safety harness is now secured firmly around your waist.
+あなたは凍りつき、氷の墓場へと沈んで行った!
+雑に積まれた貨物で道がふさがれている。
+貨物は重すぎて動かせない。
+熟れすぎたバナナを注意深く剥いた。
+遠くから別の音が聞こえる…低いうなり声のような、この夜と同じくらい不吉な音だ。
+うなり声が大きくなった。
+新たな波でボートが揺れているのを感じた。
+オールがないのにどうやって?
+安全ベルトで腰をしっかりと固定した。
 It's very difficult to move while you're strapped in!  First unfasten the belt.
 The rope secures the life boat to the Titanic.
-In ragged writing the note reads: " Miller was lost here. "
+「ミラーはここで失われた」とかろうじて読めた。
 The harness reminds you of a seat belt.
 The crates are nailed shut and impossible to open with your bare hands.
-You take a few steps then slam right into a cave wall!
+数歩歩いたところで洞窟の壁にぶつかってしまった!
 You can't see the rope from here.
-Several hours later you wake up, your boat, however, has vanished!
-The passage is much too small to walk through.
+あなたは数時間後に気が付いた。だが、ボートはどこかに消えてしまった!
+その道は通るには狭すぎる。
 You barely manage to fit through the crevice!
 All you can see is the sparkle of stars reflecting off the ice filled water.
 The suit doesn't fit too well, but it is comfortable.
 The banana is quickly reduced to an unrecognizable pile of mush!
 You deliver yourself an excellent blow to the head!
-You advance even further, sinking up to your waist in mud.
-You take one more step and fall into a deep pit of sloppy mud.
+さらに進むと腰まで泥に浸かってしまった。
+もう一歩進むと、あなたは深い泥の穴に落ちてしまった。
 You try and try to get some mud, but it leaks through your fingers too fast.
 The hexagon shapes seem to be immovable.
 The hexagon shapes remain utterly undamaged!
 What you see is too sickening to think about!
 The entire boat rocks for a moment, but nothing interesting happens.
 You notice that the hair on your arm stands up!
-Your stomach is beginning to growl.
-You're very weak from hunger now!
+あなたの腹の虫が鳴り始めた。
+空腹で弱ってきた!
 You stagger...then keel over from lack of food!
 The pill is reduced to dust, which flies away in a soft breeze.
 The brown bottle shatters into a thousand slivers!
@@ -52,7 +52,7 @@ How can you possibly tie the rope to that!
 Both your left hand and your right arm are broken!
 You see nothing unusual about your arms or your hands.
 I don't think that will go down too well.
-It's much too dark to see anything!
+真っ暗で何も見えない!
 The rope is suddenly jerked away from your hand!
 You pull, and you tug, but nothing gives.
 As you reel in the rope it snags in many cracks.  Finally an object appears...
@@ -81,7 +81,7 @@ You're too excited about escaping from this place to sleep!
 Why would you want to turn that, and where would you turn it to?
 No matter how hard you wish, it just won't take off!
 Are you feeling OK?  You're already standing!
-With what, your teeth!?!
+どうやって? まさか歯で!?!
 As you take you best swing the creature grabs the knife...and eats it!!!
 There's no more rope to climb down!
 You are too busy hanging onto the rope to do that!
@@ -110,27 +110,27 @@ Nice try...almost.
 Somehow, I don't think that's going to happen.
 Don't expect miracles!
 Let's be resonable please!
-A noble attempt, but zip on results.
-You're in the wrong dimension to do something like that!
+すばらしい試みだが無理だった。
+そんなことをするとは次元が違う!
 The door is bolted shut.
 Which dial are you referring to?
 You have nothing of interest.
 The rope is now untied.
 Inside the bottle is a glowing pill!
 The bottle is empty.
-The flashlight is now on.
-The flashlight is now off.
+懐中電灯が明るくなった。
+懐中電灯の明かりが消えた。
 That doesn't seem to help.
-Nothing seems to happen.
+何も変わらないようだ。
 You sit down, think for a moment, then stand up.
 You feel nothing unusual.
 You see nothing of interest.
-You have nothing to burn it with.
+あなたはそれを燃やせるものを持っていない。
 I don't think your tailor would approve!
-That is an incomplete sentence.
+その分は不完全だ。
 I don't understand that sentence.
-You must supply a second noun or object.
-You must supply a noun or an object.
+2番目の名詞か目的語が必要だ。
+名詞か目的語が必要だ。
 It's about 30 feet long, and made of a durable twine.
 OK, the room descriptions will not be shown anymore.
 OK, the room descriptions will be shown in full every time you change rooms.
@@ -142,7 +142,7 @@ Most of the controls appear incomprehensible, though flickering lights indicate
 that they still work.  A small screen stands out, with a small slot below it.
 There is a tape in the slot.
 The slot is empty.
-There is not a path in that direction.
+そちらへは行けない。
 What do you plan to type on, your toes!
 Barely visable under the sand is the end of a rusty metal rod.
   The metal stake is sticking out of the ground.
@@ -244,7 +244,7 @@ There's no way to close that.
 Suddenly, you feel weightless as all the objects around you glow intensely
 bright.  Seconds later you seem to fall from nowhere into a large, hard chair.
 Are you sure (Y or N)?
-For a brief moment you could barely hear a low humming noise, like an engine.
+一瞬、エンジンのようなうなる音がかすかに聞こえた。
 The ground here is too hard to dig in.
 There is no ground to dig into around here.
 You manage to chip away only a small amount of ice.
@@ -257,16 +257,16 @@ The huge saucer is pie-shaped, and over 50 meters across.  The silver colored
 metal is glass smooth.  The saucer is well embedded into the earth, only ten
 meters of the ship protrude above the ground.
 The fallen boulders from the rockfall block the way.
-You decide against cutting the rope since you would have two useless pieces.
+ロープを短い2本にしても無意味なので、あなたはロープを切るのをやめた。
 You raise the blade to your throat, then come to your senses!
 Glistening slime and jelly drip from the cage bars.
 The slime and jelly feels sticky and repulsive.
 The glass smooth walls are too slippery to scale.
 OK, returning to last game position...
-You hear a bat fly overhead.
-A large fish stops overhead, examines you, and paddles away unimpressed.
+頭の上でコウモリが飛ぶ音が聞こえた。
+巨大な魚が頭の上で止まり、あなたを調べまわり、そして興味なさげに泳ぎ去った。
 A tiny creature, resembling a rat, darts across the floor and under a machine.
-Some mangled wreckage from the Titanic flows down the stream and disappears.
+タイタニック号の残骸が流れて行き、そして見えなくなった。
 You hear rattling in the ceiling as some dust tumbles out of a vent.
 The strange wall has collapsed and vanished!
 The door is bolted shut!
@@ -278,13 +278,13 @@ A badly mangled piece of wire is laying here, half buried under some dirt.
 Carefully, you crawl and slide down the steep slope into the crater.
 A thick, prickly growth of weeds blocks your path.
 You walk around, exploring the scattered boulders and following footprints.
-A bright yellow shooting star streaks across the blackness and fades away.
+黄色く輝く流れ星が漆黒の空を横切り消えた。
 The effects of the glowing pill are beginning to wear off, your stomach growls.
 You are very hungry and thirsty now.
 You are about to pass out from lack of water and food!
 You stagger, then keel over from lack of water.  Everything fades to black...
 In the distance you hear a low rumbling noise, like thunder, or an explosion.
-Slowly, you wade through the cold, knee-deep water...
+ゆっくりと、冷たい水に膝まで浸かりながら渡った…
 You awake about 20 minutes later at the side of a dirt road.
 You find nothing but dirt and footprints.
 The rather large boulders are scattered all around.  They look somewhat black.
@@ -326,12 +326,12 @@ Inside the cabinet you find:
 The shuttle does not move!
 A beep tone from the speaker signals your action.
 It won't fit!
-Survival kit:  Opened.
-The survival kit is empty.
-The survival kit contains these items:
-The survival kit is closed.
-The safety harness is now unfastened.
-You walk around exploring the tremendous ice cave...
+緊急救命箱: 開いている。
+緊急救命箱は空だ。
+緊急救命箱には次のものが入っていた:
+緊急救命箱を閉じた。
+安全ベルトが外れた。
+驚くべき氷の洞窟を歩き回った…
 From out of nowhere the game's designer appears and leads you to safety....
 First you must take the helmet off.
 The shiny key is in the keyhole.
@@ -403,7 +403,7 @@ The creature utters a few strange words back to you and resumes the chase!
 The rope falls off the thrown object.
 It looks like a rectangular cartridge, with small notches at one end.
 The keyhole has nothing in it.
-A couple of passengers rush past you looking for a boat to climb into!
+救命ボートを探す乗客たちがあなたの側を近くを通り過ぎた!
 You just glimpse a brief explosion of light on the very edge of the horizon.
 You smell it, poke it, taste it, and talk to it, yet you learn nothing new.
 Raised letters read: "LOWER ELEVATOR ACCESS CARD.  IF FOUND RETURN TO FLOYD."
@@ -414,8 +414,8 @@ The lower, mangled door is already open.
 The door slides open for a moment then closes.
 The door does not budge.
 Just because it looks like a stove doesn't mean it is a stove!
-There's a knife here, with its point buried deep in one of the crates.
-With a small tug the knife comes loose.
+刃が箱に深く突き刺さったナイフがある。
+少し引っ張るとナイフは簡単に抜けた。
 The dial goes from 'A' to 'Z.'
 The lifeboat rocks a little as you try to take the thick rope!
 How sad it is, reduced to a crawler!
