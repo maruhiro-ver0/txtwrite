@@ -161,11 +161,11 @@ static int encode(const char *file1, const char *file2)
 int main(int argc, char *argv[])
 {
 	if(argc <= 1) {
-		fprintf(stderr, "usage:\ntxtwrite -d ROOM1 ROOM2 > rooms.txt\n");
-		fprintf(stderr, "txtwrite -d SPECIAL1 SPECIAL2 > specials.txt\n");
+		fprintf(stderr, "usage:\ntxtwrite -d ROOMS1 ROOMS2 > rooms.txt\n");
+		fprintf(stderr, "txtwrite -d SPECIAL1 SPECIAL2 > special.txt\n");
 		fprintf(stderr, "txtwrite -d LINE > line.txt\n");
-		fprintf(stderr, "txtwrite -e ROOM1 ROOM2 < rooms.txt\n");
-		fprintf(stderr, "txtwrite -e SPECIAL1 SPECIAL2 < specials.txt\n");
+		fprintf(stderr, "txtwrite -e ROOMS1 ROOMS2 < rooms.txt\n");
+		fprintf(stderr, "txtwrite -e SPECIAL1 SPECIAL2 < special.txt\n");
 		fprintf(stderr, "txtwrite -e LINE < line.txt\n");
 		return 0;
 	}
