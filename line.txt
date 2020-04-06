@@ -43,10 +43,10 @@ The flashlight appears to be much dimmer now.
 The mud is too thick and sloppy to travel through.
 You climb on top, look around, then climb back down.
 Why would you want to climb on that?
-GULP!  The banana didn't taste so good, but it sure hit the spot.
-Do you plan on eating the peel also!
+ゴクン! 味はいまいちだが、腹は膨れた。
+皮ごと食べるつもりなのか!
 Gulp!  You feel like you just ate a six course meal, plus dessert!
-Why looky there, you made a perfect box knot!
+見ろ、完璧な箱結びだ!
 You can't find anything worth taking.
 How can you possibly tie the rope to that!
 Both your left hand and your right arm are broken!
@@ -115,7 +115,7 @@ Let's be resonable please!
 The door is bolted shut.
 Which dial are you referring to?
 You have nothing of interest.
-The rope is now untied.
+ロープを解いた。
 Inside the bottle is a glowing pill!
 The bottle is empty.
 懐中電灯が明るくなった。
@@ -127,7 +127,7 @@ You feel nothing unusual.
 You see nothing of interest.
 あなたはそれを燃やせるものを持っていない。
 I don't think your tailor would approve!
-その分は不完全だ。
+その文は不完全だ。
 I don't understand that sentence.
 2番目の名詞か目的語が必要だ。
 名詞か目的語が必要だ。
