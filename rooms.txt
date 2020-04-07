@@ -8,12 +8,12 @@
   驚くべき光景だ。あなたは海の底に立っている。床、そして天井は、見渡す限り氷で覆	われていて、冷たい水はどうやらここから流れ出ているようだ。
   ここは狭く、泥のような感触と2ヶ月前の靴下のような臭いがする。前方の壁にはいく 	つかの奇妙な文字が刻まれている。通れる道は北西にしかない。
   川はここで北東に曲がっている。下流の方の遠くからかすかに音が聞こえる。西には鍾	乳石の洞窟に戻る道があり、南東には分かれ道がある。
-  川が滝になって深い裂け目へと流れている。洞窟の壁はまるでガラスのように滑らか  	だ。安全な道は南西の出口しかない。
+  川が滝になって深い谷間へと流れている。洞窟の壁はまるでガラスのように滑らかだ。	安全な道は南西の出口しかない。
   道は別の狭く霧がかった洞窟へとつながっていた。あなたは東の壁の何か奇妙なものに	気づいた。新しい道は北東で途切れている。西からは水が流れる音がまだ聞こえる。洞窟	の壁の小さな穴は南西へと続いている。
-  この場所は洞窟と言うよりは大きな裂け目だ。広くなっている部分には砂で覆われた地	面が見える。北東から戻ることができる。
-  深い泥が溜まった広い洞窟にいる。北の方ほど深くなっているようだ! その向こうには	泥のない深い裂け目があり、さらにその先には真っ暗な裂け目に流れ込む滝が見える。  	南西の大きな壁の穴を通ってここから出られる。
-  You are at the turning point of a winding tunnel, mysteriously carved out of  	solid rock.  The rays of your flashlight fade into blackness in either          	direction.  The crumbled wall lies back to the west and the tunnel heads to the 	northwest.
-  This is the northern end of a gigantic mud covered cave, to the south is a    	wide pit of mud oozing into a section of the chasm.  The chasm crosses in front 	of you, just west of where you are standing.  The ground here is much drier than	to the south.  A waterfall flows from the west side of the chasm into a seperate	section to the northwest.  You can scarcely hear a low humming sound coming from	within the chasm, sounding like a small generator running!
+  この場所は洞窟と言うよりは広い谷間だ。広くなっている部分には砂で覆われた地面が	見える。北東から戻ることができる。
+  深い泥が溜まった広い洞窟にいる。北の方ほど深くなっているようだ! その向こうには	泥のない深い谷間があり、さらにその先には真っ暗な谷間に流れ込む滝が見える。南西の	大きな壁の穴を通ってここから出られる。
+  奇妙な、堅い岩を削った風の吹くトンネルの曲がり角にいる。どちらの方向も懐中電灯	の光が届かず先が見えない。砕けた壁が西の戻る方向にあり、トンネルは北西の方向に続	いている。
+  とても広い泥だらけの洞窟の北の端にいる。南には広い穴があり、泥が深い谷間へと流	れている。谷間は洞窟を分断していて、あなたはその西側にいる。ここは南の方よりは地	面が乾いている。滝が西の谷間から北西へと流れている。裂け目から、かすかにうなるよ	うな音が聞こえる。まるで小型の発電機のようだ!
   You clinging to the end of the rope!  The chasm walls have narrowed a little  	here, and nearly form a tunnel below you.  The bottom is no where in sight!
   You are at the bottom of the deep chasm.  On both sides of you are fallen     	rocks, blocking any passage into the chasm.  Somewhere in the darkness above    	hangs the rope.  From here a skinny passage leads east, into an peculiar shaped 	cave entrance.
   This is quite an unusual cave.  The walls are scorched black, as if by great  	heat.  You decide that this cave was not formed by the normal processes of      	nature.  The path forks here, headind both northeast and southeast, while the   	chasm is back to the west.

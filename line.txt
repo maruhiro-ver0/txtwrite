@@ -56,13 +56,13 @@ I don't think that will go down too well.
 The rope is suddenly jerked away from your hand!
 You pull, and you tug, but nothing gives.
 As you reel in the rope it snags in many cracks.  Finally an object appears...
-You almost make it through, but some of your possessions are too large to take.
+あと少しで通れそうだが、持ち物がじゃまだ。
 The flashlight is beginning to flicker, it's about to go out!
 That sentence doesn't make much sense.
 You can't give what you don't have to begin with!
 The alien creature humbly accepts your gift...and eats it!
 You manage to climb down to the end of the rope.
-You would surely slip, fall and die.
+間違いなく滑って落ちて死んでしまうだろう。
 Although you don't displace much dirt, you do notice that the ground is soft.
 The stake won't go into that!
 The metal stake is in as far as it's going to go.
@@ -71,7 +71,7 @@ The metal stake is now sticking out of the ground.
 The rope drops into the dark chasm, probably lost forever!
 The rope now dangles down into the dark chasm.
 About a second and a half later you hear a dull thud!
-Why?  Do you like to play in the mud!
+なぜ? 泥遊びをしたいのか!
 All you see is pitch black darkness.
 You see the flashlight swaying back and forth.  You can't see the bottom though!
 The object dissappears into the chasm!
@@ -188,7 +188,7 @@ Done.
 First the cabinet door must be opened.
 There is not enough room in the panel compartment.
 The gun is unlike any gun you've ever seen before.  An orange gauge on the side
-Since there are multiple directions you must be more specific.
+複数の方向があるため、方向を指示しなければならない。
 Here is your present condition:
 You feel weak from lack of food.
 You get down and bogie for a moment, then look around, somewhat blushed!
