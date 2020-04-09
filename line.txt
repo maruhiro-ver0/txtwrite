@@ -16,7 +16,7 @@ The crates are nailed shut and impossible to open with your bare hands.
 You can't see the rope from here.
 あなたは数時間後に気が付いた。だが、ボートはどこかに消えてしまった!
 その道は通るには狭すぎる。
-You barely manage to fit through the crevice!
+どうにか隙間を通ることができた!
 All you can see is the sparkle of stars reflecting off the ice filled water.
 The suit doesn't fit too well, but it is comfortable.
 The banana is quickly reduced to an unrecognizable pile of mush!
@@ -55,7 +55,7 @@ I don't think that will go down too well.
 真っ暗で何も見えない!
 The rope is suddenly jerked away from your hand!
 You pull, and you tug, but nothing gives.
-As you reel in the rope it snags in many cracks.  Finally an object appears...
+ロープを引くとひび割れに引っかかった。ロープの先に見えるのは…
 あと少しで通れそうだが、持ち物がじゃまだ。
 The flashlight is beginning to flicker, it's about to go out!
 That sentence doesn't make much sense.
@@ -144,7 +144,7 @@ There is a tape in the slot.
 The slot is empty.
 そちらへは行けない。
 What do you plan to type on, your toes!
-Barely visable under the sand is the end of a rusty metal rod.
+砂の中に錆びた金属の棒の端が少し見える。
   The metal stake is sticking out of the ground.
 That might be possible if you could fix it first!
 There is not an on/off switch on the computer.
@@ -156,7 +156,7 @@ Among some complicated equipment you discover some sort of gun!
 The screen is blank.
 A small brown bottle sits on the table, a slight glow surrounds it!
 You've uncovered a long metal stake, slightly rusted.
-You can feel the rope dragging behind you.
+あなたはロープを引きずっている。
 The panel door cannot be moved by force, it simply won't budge.
 The panel, made of some alien alloy, cannot be destroyed.
 The keypad has ten buttons, labeled 0 through 9.
