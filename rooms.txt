@@ -14,9 +14,9 @@
   深い泥が溜まった広い洞窟にいる。北の方ほど深くなっているようだ! その向こうには	泥のない深い谷間があり、さらにその先には真っ暗な谷間に流れ込む滝が見える。南西の	大きな壁の穴を通ってここから出られる。
   奇妙な、堅い岩を削った風の吹くトンネルの曲がり角にいる。どちらの方向も懐中電灯	の光が届かず先が見えない。砕けた壁が西の戻る方向にあり、トンネルは北西の方向に続	いている。
   とても広い泥だらけの洞窟の北の端にいる。南には広い穴があり、泥が深い谷間へと流	れている。谷間は洞窟を分断していて、あなたはその西側にいる。ここは南の方よりは地	面が乾いている。滝が西の谷間から北西へと流れている。裂け目から、かすかにうなるよ	うな音が聞こえる。まるで小型の発電機のようだ!
-  You clinging to the end of the rope!  The chasm walls have narrowed a little  	here, and nearly form a tunnel below you.  The bottom is no where in sight!
-  You are at the bottom of the deep chasm.  On both sides of you are fallen     	rocks, blocking any passage into the chasm.  Somewhere in the darkness above    	hangs the rope.  From here a skinny passage leads east, into an peculiar shaped 	cave entrance.
-  This is quite an unusual cave.  The walls are scorched black, as if by great  	heat.  You decide that this cave was not formed by the normal processes of      	nature.  The path forks here, headind both northeast and southeast, while the   	chasm is back to the west.
+  ロープの端まで下りた! 谷間はこのあたりで少し狭くなって、少し下にはトンネルのよ	うなものが見える。底はまだ見えない!
+  谷底にいる。両側には落石があり、通路を塞いでいる。上を見ると暗闇の中でロープが	垂れ下がっている。細い通路が東へと向かっていて、その先には奇妙な洞窟の入り口があ	る。
+  この洞窟は明らかに異様だ。壁はまるで高温で焼かれたように黒くなっている。この洞	窟は自然にできたものとは思えない。道はここで分かれていて、北東と南東に向かってい	る。西に行くと谷底に戻れる。
   You at the middle point of a string of steps that curve to the northeast.     	The steps are etched out of solid rock.  The passage up leads to the northwest.
   This area appears to be some sort of abandoned zoo, with metal cages crowding 	every corner.  Most of the cages are littered with the remains of long decayed  	creatures, many with very unusual skeleton structures.  One cage, however, is   	open and has no remains in it!  Behind you, to the southwest, is a stairway     	carved out of rock.
   You are standing at the front end of a huge metal saucer, which you have      	deduced to be of alien origin.  The saucer curves away from you in both         	directions, but only the northern end has escaped a prehistoric rockfall.  A    	rocky, but passable area lies to the northeast, the main path heads back west.

@@ -39,7 +39,7 @@ You can't find any water around here.
 It's right here!
 Are you sure you want to?  Well, OK, you look downright scruffy!
 How?  Didn't you notice?  The life boat is secured with a thick rope!
-The flashlight appears to be much dimmer now.
+懐中電灯が暗くなり始めた。
 The mud is too thick and sloppy to travel through.
 You climb on top, look around, then climb back down.
 Why would you want to climb on that?
@@ -61,20 +61,20 @@ The flashlight is beginning to flicker, it's about to go out!
 That sentence doesn't make much sense.
 You can't give what you don't have to begin with!
 The alien creature humbly accepts your gift...and eats it!
-You manage to climb down to the end of the rope.
-間違いなく滑って落ちて死んでしまうだろう。
+どうにかロープの端までたどり着いた。
+間違いなく滑り落ちて死んでしまうだろう。
 Although you don't displace much dirt, you do notice that the ground is soft.
 The stake won't go into that!
 The metal stake is in as far as it's going to go.
 The object sinks into the soft sloppy mud!
-The metal stake is now sticking out of the ground.
-The rope drops into the dark chasm, probably lost forever!
-The rope now dangles down into the dark chasm.
+金属の棒を地面に突き刺した。
+ロープは谷底に落ちてしまった。たぶん永遠に!
+ロープは谷底へとぶら下がっている。
 About a second and a half later you hear a dull thud!
 なぜ? 泥遊びをしたいのか!
 All you see is pitch black darkness.
 You see the flashlight swaying back and forth.  You can't see the bottom though!
-The object dissappears into the chasm!
+それは谷の奥深くで見えなくなった!
 If it needs fixing then stop talking about it--do it!
 There's nothing there worth noting, unless you collect dust!
 You're too excited about escaping from this place to sleep!
@@ -83,9 +83,9 @@ No matter how hard you wish, it just won't take off!
 Are you feeling OK?  You're already standing!
 どうやって? まさか歯で!?!
 As you take you best swing the creature grabs the knife...and eats it!!!
-There's no more rope to climb down!
-You are too busy hanging onto the rope to do that!
-In your condition it is impossible to carry anything else!
+下りようとしてももうロープがない!
+ロープにつかまるので精一杯だ!
+この状態ではもう何も持てない!
 You are in too weak of a condition to carry many things at once!
 The flashlight is waterproof.  There is a steel ring on the back, like a hook.
 The remains do not remind you of any creature you've ever seen before.
@@ -104,7 +104,7 @@ The huge transparent shield rumbles, then rises upward...exposing radiation!
 The device has a screen, a typewriter, and a microphone built-in.
 "OK, the screen is changed."
 "Well I'll be shutting down now, bye bye."  ...click!
-You now hold no special possessions.
+何も持っていない。
 Been under a lot of pressure lately have you?
 Nice try...almost.
 Somehow, I don't think that's going to happen.
@@ -145,7 +145,7 @@ The slot is empty.
 そちらへは行けない。
 What do you plan to type on, your toes!
 砂の中に錆びた金属の棒の端が少し見える。
-  The metal stake is sticking out of the ground.
+  金属の棒が地面に突き刺さっている。
 That might be possible if you could fix it first!
 There is not an on/off switch on the computer.
 You must try to be a little more specific.
