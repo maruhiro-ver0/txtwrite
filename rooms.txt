@@ -17,9 +17,9 @@
   ロープの端まで下りた! 谷間はこのあたりで少し狭くなって、少し下にはトンネルのよ	うなものが見える。底はまだ見えない!
   谷底にいる。両側には落石があり、通路を塞いでいる。上を見ると暗闇の中でロープが	垂れ下がっている。細い通路が東へと向かっていて、その先には奇妙な洞窟の入り口があ	る。
   この洞窟は明らかに異様だ。壁はまるで高温で焼かれたように黒くなっている。この洞	窟は自然にできたものとは思えない。道はここで分かれていて、北東と南東に向かってい	る。西に行くと谷底に戻れる。
-  You at the middle point of a string of steps that curve to the northeast.     	The steps are etched out of solid rock.  The passage up leads to the northwest.
+  北東に向かう曲がった坂道の途中にいる。地面には堅い岩が敷き詰められている。戻る	道は北西の方向へ向かっている。
   This area appears to be some sort of abandoned zoo, with metal cages crowding 	every corner.  Most of the cages are littered with the remains of long decayed  	creatures, many with very unusual skeleton structures.  One cage, however, is   	open and has no remains in it!  Behind you, to the southwest, is a stairway     	carved out of rock.
-  You are standing at the front end of a huge metal saucer, which you have      	deduced to be of alien origin.  The saucer curves away from you in both         	directions, but only the northern end has escaped a prehistoric rockfall.  A    	rocky, but passable area lies to the northeast, the main path heads back west.
+  まるでエイリアンが乗って来たような巨大な金属の円盤の前にいる。円盤はあなたの両	側に曲がっているが、大昔の落石を免れたのは北側のみだ。北東に岩だらけだが通ること	のできる通路があり、西には戻る道がある。
   You are standing near the side of a huge, ominous metal saucer.  A rockslide  	blocks any further progress around the disk.  You are surprised at how smooth   	the metal is, with no appearent damage from the cave in of boulders.  A clear   	path heads southwest.
   This is the top of the large saucer.  A hatch lies at your feet, recessed in  	such a way that it cannot be seen from the ground.  The boulders that rest on   	the hull seem to have left no damage at all!  From here you guess the size of   	the disk to be 75 yards in diameter.
   This is an empty chamber with a ladder leading both up and down.  A mangled   	hatch, once the lower door, lies twisted to the side of the ladder, leaving an  	easy climb downward.

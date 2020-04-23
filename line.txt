@@ -13,7 +13,7 @@ The rope secures the life boat to the Titanic.
 The harness reminds you of a seat belt.
 The crates are nailed shut and impossible to open with your bare hands.
 数歩歩いたところで洞窟の壁にぶつかってしまった!
-You can't see the rope from here.
+ここにはロープがない。
 あなたは数時間後に気が付いた。だが、ボートはどこかに消えてしまった!
 その道は通るには狭すぎる。
 どうにか隙間を通ることができた!
@@ -306,10 +306,10 @@ This isn't the fairy tale land of "Anything Goes!"
 You don't own much stock in reality, do you?!
 The object plunges into the water and disappears!
 The object sinks in the water and vanishes!
-You notice a slightly repugnant smell as you enter the stairway.
-The smell is almost overwhelmingly nauseous as you enter the cave.
-To your nostrils delight the repulsive smell thins to a mild stink.
-Fresh air washes your nose clean as you leave the stairway.
+坂道を通るとき、かすかに不快な臭いがした。
+洞窟に入ると耐えられないような臭いがした。
+臭いは少しましになった。
+坂道から戻ると新鮮な空気が鼻を洗い流した。
 You would undoubtedly shred your hands to ribbons on the barbed wire!
 The barbed wire fence is about seven feet tall.
 The door closes with a small click from the lock.
