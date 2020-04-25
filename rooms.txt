@@ -18,26 +18,26 @@
   谷底にいる。両側には落石があり、通路を塞いでいる。上を見ると暗闇の中でロープが	垂れ下がっている。細い通路が東へと向かっていて、その先には奇妙な洞窟の入り口があ	る。
   この洞窟は明らかに異様だ。壁はまるで高温で焼かれたように黒くなっている。この洞	窟は自然にできたものとは思えない。道はここで分かれていて、北東と南東に向かってい	る。西に行くと谷底に戻れる。
   北東に向かう曲がった坂道の途中にいる。地面には堅い岩が敷き詰められている。戻る	道は北西の方向へ向かっている。
-  This area appears to be some sort of abandoned zoo, with metal cages crowding 	every corner.  Most of the cages are littered with the remains of long decayed  	creatures, many with very unusual skeleton structures.  One cage, however, is   	open and has no remains in it!  Behind you, to the southwest, is a stairway     	carved out of rock.
+  ここは見捨てられた動物園のような場所で、金属の檻がいたる所にある。ほとんどの檻	には腐った動物の死骸が散乱していて、ほとんどの動物が見たことがないような骨格をし	ている。だが1つだけ、何も居らずに開いた檻がある! あなたの後ろ、南西には岩が敷詰 	められた坂道がある。
   まるでエイリアンが乗って来たような巨大な金属の円盤の前にいる。円盤はあなたの両	側に曲がっているが、大昔の落石を免れたのは北側のみだ。北東に岩だらけだが通ること	のできる通路があり、西には戻る道がある。
-  You are standing near the side of a huge, ominous metal saucer.  A rockslide  	blocks any further progress around the disk.  You are surprised at how smooth   	the metal is, with no appearent damage from the cave in of boulders.  A clear   	path heads southwest.
-  This is the top of the large saucer.  A hatch lies at your feet, recessed in  	such a way that it cannot be seen from the ground.  The boulders that rest on   	the hull seem to have left no damage at all!  From here you guess the size of   	the disk to be 75 yards in diameter.
-  This is an empty chamber with a ladder leading both up and down.  A mangled   	hatch, once the lower door, lies twisted to the side of the ladder, leaving an  	easy climb downward.
-  You're at the center of a kalideoscope of passages and rooms, leading in all  	directions.  The central ladder continues to a lower section of the saucer.  The	only passage blocked by a door lies to the north.  The whole interior of the    	saucer is well lit, lights of every color flicker with activity as though       	something was in control.  From here, though, little else can be seen.
-  This is the central entry of the lower deck, with open rooms all around you.  	In the various dimly lit rooms you can see stacks of cargo, equipment, empty    	cages and other strange objects.  Eerie shadows play with your imagination the  	longer you study the area.  A ladder leads back into the saucer's main entry.
-  This is the most complicated room you have seen on the saucer.  The walls are 	lined with equipment, controls and machines.  The center piece of the room is a 	strange device that reminds you of a typewriter in its appearance.  Built into  	the device is a glass screen, a microphone, and a keypad.  To the south lies the	closed door that leads back into the central entry.
-  You are in a room full of scientific equipment, everything looks intact,      	though painfully confusing.  To the east is tall glass tube, big enough for a   	person to stand in.  The control board near the tube contains several closed    	panels, but one green button stands out.
-  You are inside the tall tube, above is a device that looks like a lamp.  You  	can still see all of the equipment in the lab through the tube's doorway.
-  This room is packed with machines.  The center piece of the room seems to be a	metallic chair.  On the far wall is a small panel with a keypad below it, and a 	microphone built into the wall above it.
-  This rooms is mostly empty, except for the row of machines on the far wall.  A	table sits at one corner.  On the ceiling are several vents.  One piece of      	equipment looks in someways similar to a stove.
-  This small area is obviously some sort of supply room, lined with cluttered   	shelves and sealed containers.
-  Several odd shaped beds, tables and pieces of equipment occupy most of the    	space in this chamber, you note that everything is neat and orderly.  Positioned	above each bed are two small buttons on the wall.
-  This looks like the main control area for the entire saucer.  Banks of        	buttons and dials cover the walls.  Sitting in front of the controls is a dead  	alien, with its neck area covered with gashes.  It's difficult to tell how long 	the alien has been sitting here.
-  This room is the source of the low humming sound you first noticed in the     	chasm.  A huge glowing metallic structure fills the back half of the room.  A   	large see-through plate rests in position in front of the structure.  A large   	red button is on the wall near the door.
-  This is some sort of cargo bay, full of empty cages and strange equipment.
-  This is some sort of cargo bay, full of empty cages and strange equipment.
-  This is some sort of cargo bay, full of empty cages and stange equipment.     	At your feet is a large egg, covered with a glistening jelly.
-  This is some sort of cargo bay, full of empty cages and strange equipment.
+  巨大で不気味な金属の円盤の側にいる。落盤のせいでこれ以上円盤に近づけそうにな  	い。驚くべきことに、金属の表面はとても滑らかで、洞窟の岩による傷は全くない。整っ	た通路が南西にある。
+  巨大な円盤の上にいる。くぼみの中にあったため下からは見えなかったハッチが足元に	ある。落ちてきた岩々があるが、円盤は全く傷ついていない! ここから見ると、円盤の直	径は70メートル程だ。
+  上下に向かうはしご以外は何もない部屋だ。下のハッチは壊れていて、はしごの近くに	置き去りにされているため、簡単に下りることができる。
+  通路と部屋の万華鏡の中央にいる。全ての方向に道がある。中央のはしごは円盤のさら	に下の層へと向かっている。北側には唯一の扉がある。円盤の内部はまるで誰かが制御し	ているかのように点滅する様々な色の光で照らされている。それ以外のものは見当たらな	い。
+  ここは下層デッキのエントランスで、全ての方向に開いた部屋がある。薄暗い光が積荷	や設備、空の箱、その他の奇怪なものを照らしている。この場所にいると様々な不吉な想	像が浮かんでくる。はしごで円盤の中央エントランスに戻ることができる。
+  ここは円盤の中で最も込み入った場所だ。壁には様々な設備や操作盤、機械がある。部	屋の中央にはまるでタイプライターのような不思議な装置がある。その装置にはガラスの	スクリーンとマイク、キーボードが取り付けられている。南には中央エントランスに戻る	閉じた扉がある。
+  無傷だが乱雑に実験設備が並んだ部屋にいる。東には十分に人が立ったまま入れる大き	さのガラスのチューブがある。チューブの近くにある操作盤にはいくつかの閉まったパネ	ルがあるが、目に付く緑色のボタンがある。
+  背の高いチューブの中にいる。上にはランプのような装置が見える。ここからもチュー	ブの扉越しに研究室の設備を見ることができる。
+  この部屋は機械だらけだ。部屋の中央には金属の椅子がある。遠くの壁にはキーボード	が付いた小さなパネルが埋め込まれていて、その上にはマイクが取り付けられている。
+  この部屋には遠くの壁の一連の機械以外はほとんど何もない。隅にテーブルがある。天	井には通気口が見える。設備の内の1つはストーブのようだ。
+  ここは狭い倉庫のような部屋だ。たくさんの棚と封がされたコンテナがある。
+  おかしな形のベッド、テーブル、設備がこの部屋のほとんどを占めている。全てきちん	と整備されているようだ。どのベッドの上にも小さなボタンが2つ付いている。
+  ここが円盤の中央制御区画のようだ。壁一面にボタンとダイヤルがある。操作盤の前に	は首に深い傷のあるエイリアンの死体が座っている。いつからエイリアンの死体があった	かのかはわからない。
+  部屋に入ると、最初に気づいた音はこの部屋のものだとわかった。熱を帯びた巨大な金	属の構造物が部屋の大半を占めている。大きな透明のプレートが構造物の中央にある。大	きな赤いボタンが扉の近くの壁にある。
+  ここは貨物室のようだ。たくさんの空箱や奇妙な設備がある。
+  ここは貨物室のようだ。たくさんの空箱や奇妙な設備がある。
+  ここは貨物室のようだ。たくさんの空箱や奇妙な設備がある。                      	足元には大きな、ぬるぬるとしたもので包まれた卵がある。
+  ここは貨物室のようだ。たくさんの空箱や奇妙な設備がある。
   You are inside one of the many cages within the lower cargo bay of the saucer.	Slim and jelly drip from the bars.  To the west the cage door has been closed   	and chained, there is no escape but through the door!
   You standing at the center of a broken wooden bridge, loose boards creak as   	you walk along it.  Underneath a fast flowing stream winds to the east.  Dusty  	clouds scar the sky.  The bridge continues to the south, the broken end is      	further north.
   This is the broken end of the bridge, where a large section has collapsed     	into the rapid waters below.  The unreachable north bank reveils desolate       	waste lands to the horizon.  The bridge continues southward from here.

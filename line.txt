@@ -1,4 +1,4 @@
-あなたは凍りつき、氷の墓場へと沈んで行った!
+凍りつき、氷の墓場へと沈んで行った!
 雑に積まれた貨物で道がふさがれている。
 貨物は重すぎて動かせない。
 熟れすぎたバナナを注意深く剥いた。
@@ -18,7 +18,7 @@ The crates are nailed shut and impossible to open with your bare hands.
 その道は通るには狭すぎる。
 どうにか隙間を通ることができた!
 All you can see is the sparkle of stars reflecting off the ice filled water.
-The suit doesn't fit too well, but it is comfortable.
+スーツの大きさは合わないが、とても快適だ。
 The banana is quickly reduced to an unrecognizable pile of mush!
 You deliver yourself an excellent blow to the head!
 さらに進むと腰まで泥に浸かってしまった。
@@ -32,8 +32,8 @@ You notice that the hair on your arm stands up!
 あなたの腹の虫が鳴り始めた。
 空腹で弱ってきた!
 You stagger...then keel over from lack of food!
-The pill is reduced to dust, which flies away in a soft breeze.
-The brown bottle shatters into a thousand slivers!
+薬は塵になり、冷たい風に吹かれて飛んでいった。
+茶色のビンは粉々に砕け散った!
 Yuk!!  That salt water tasted terrible!!
 You can't find any water around here.
 It's right here!
@@ -45,19 +45,19 @@ You climb on top, look around, then climb back down.
 Why would you want to climb on that?
 ゴクン! 味はいまいちだが、腹は膨れた。
 皮ごと食べるつもりなのか!
-Gulp!  You feel like you just ate a six course meal, plus dessert!
+ゴクン! 6つのコース料理とデザートを食べた気分だ!
 見ろ、完璧な箱結びだ!
 You can't find anything worth taking.
 How can you possibly tie the rope to that!
-Both your left hand and your right arm are broken!
+両腕が折れている!
 You see nothing unusual about your arms or your hands.
-I don't think that will go down too well.
+それはやめたほうがよい。
 真っ暗で何も見えない!
 The rope is suddenly jerked away from your hand!
 You pull, and you tug, but nothing gives.
 ロープを引くとひび割れに引っかかった。ロープの先に見えるのは…
 あと少しで通れそうだが、持ち物がじゃまだ。
-The flashlight is beginning to flicker, it's about to go out!
+懐中電灯が点滅し始めた。今にも消えそうだ!
 That sentence doesn't make much sense.
 You can't give what you don't have to begin with!
 The alien creature humbly accepts your gift...and eats it!
@@ -87,27 +87,27 @@ As you take you best swing the creature grabs the knife...and eats it!!!
 ロープにつかまるので精一杯だ!
 この状態ではもう何も持てない!
 You are in too weak of a condition to carry many things at once!
-The flashlight is waterproof.  There is a steel ring on the back, like a hook.
-The remains do not remind you of any creature you've ever seen before.
-The remains are too grotesque and deformed to touch!
-You discover a piece of blue fur!
+この懐中電灯は防水性だ。後ろにはフックのような金属の輪がついている。
+死骸はどれも見たことのない動物のものだ。
+あまりにも恐ろしく奇怪で触れない!
+青い毛皮の切れ端がある!
 You find nothing of interest inside there.
 There's no opening to reach in.
 The banana is reduced to pudding!
 On inpact the flashlight shatters into a dozen pieces.
 You bump your shin on the edge of the saucer.
-You wince with pain as you barely open the hatch with your aching hands!
-The closed hatch is blocking the way.
-The reactor provides power for the alien ship.  It is protected be a shield.
-The huge transparent shield rumbles, then slides into place.
-The huge transparent shield rumbles, then rises upward...exposing radiation!
+痛みをこらえながらどうにかハッチを開けた!
+ハッチが閉じていて進めない。
+この原子炉はエイリアンの宇宙船の動力源だ。シールドで守られている。
+巨大な透明のシールドが振動し、そして元の位置に下がった。
+巨大な透明のシールドが振動し、そして上がった…放射線に曝される!
 The device has a screen, a typewriter, and a microphone built-in.
-"OK, the screen is changed."
-"Well I'll be shutting down now, bye bye."  ...click!
+「OK, スクリーンを切り替えました。」
+「あー、それでは停止します。バイバイ。」…カチッ!
 何も持っていない。
 Been under a lot of pressure lately have you?
 Nice try...almost.
-Somehow, I don't think that's going to happen.
+そんなことができるとは思えない。
 Don't expect miracles!
 Let's be resonable please!
 すばらしい試みだが無理だった。
@@ -116,13 +116,13 @@ The door is bolted shut.
 Which dial are you referring to?
 You have nothing of interest.
 ロープを解いた。
-Inside the bottle is a glowing pill!
-The bottle is empty.
+ビンの中には光る薬がある!
+ビンは空だ。
 懐中電灯が明るくなった。
 懐中電灯の明かりが消えた。
-That doesn't seem to help.
+それはできそうにない。
 何も変わらないようだ。
-You sit down, think for a moment, then stand up.
+あなたは座り、しばらく考え込み、そしてまた立ち上がった。
 You feel nothing unusual.
 You see nothing of interest.
 あなたはそれを燃やせるものを持っていない。
@@ -134,10 +134,10 @@ I don't understand that sentence.
 It's about 30 feet long, and made of a durable twine.
 OK, the room descriptions will not be shown anymore.
 OK, the room descriptions will be shown in full every time you change rooms.
-Yippeeeeeeeee!
-For a brief moment a bright phosphorescent light floods the tube to the east.
-Carefully you remove the suit from the alien, noticing its good condition.
-The alien seems well preserved, though severe gashes mar its head!
+わーーーーい!
+しばらくの間、明るい緑色の光が東側のチューブを満たした。
+スーツをエイリアンから慎重に脱がせたが、状態は良さそうだ。
+エイリアンの死体には頭のひどい傷以外の損傷はないようだ。
 Most of the controls appear incomprehensible, though flickering lights indicate
 that they still work.  A small screen stands out, with a small slot below it.
 There is a tape in the slot.
@@ -151,73 +151,73 @@ There is not an on/off switch on the computer.
 You must try to be a little more specific.
 You see a ladder and small flashes of light.
 You feel a fresh breeze coming out of the vent.
-The shelves are cluttered with complicated equipment, useless to you.
-Among some complicated equipment you discover some sort of gun!
-The screen is blank.
-A small brown bottle sits on the table, a slight glow surrounds it!
+棚には複雑な機械が並んでいて役立ちそうなものはない。
+入り組んだ機械の間から銃のようなものを見つけた!
+画面には何も映っていない。
+テーブルの上にある小さなビンがかすかに光っている!
 You've uncovered a long metal stake, slightly rusted.
 あなたはロープを引きずっている。
-The panel door cannot be moved by force, it simply won't budge.
+パネルの扉を力ずくで開けようとしたがびくともしなかった。
 The panel, made of some alien alloy, cannot be destroyed.
 The keypad has ten buttons, labeled 0 through 9.
-There's no visable way of opening it.
-The brown bottle doesn't have a cap.  A strange glow surrounds it.
+開ける方法が見当たらない。
+茶色のビンは栓をされていない。奇妙な光がビンを覆っている。
 The three foot long metal stake is slightly rusted.
-The small pill is glowing brightly.
-The alien suit is in good shape.
+小さな薬は光を放っている。
+エイリアンのスーツの状態は良さそうだ。
 The object is a tarnished United States' quarter, dated in the year 2111!
 You are not wearing the suit to begin with.
 You barely manage to climb out of the tight-fitting suit.
 First you must take the suit off.
-With a strenuous tug the hatch slams shut.
+強く引いてハッチを閉じた。
 You type in the code, but nothing seems to happen.
 The panel door hums, then effortlessly slides upward, revealing a compartment.
-  The alien suit is being worn.
+  エイリアンのスーツを着ている。
 First you must have the suit.
 The silver dial clicks as you set it to the new number.
 The gold dial clicks its way into position, set at the new number.
 That dial does not have that number on it!
-Carefully, you aim then toss lightly, but the object misses its target.
+よく狙い、そっと投げたが当たらなかった。
 On the ceiling is some sort of vent.
 You notice nothing unusual about the ceiling here.
 The ceiling here is crowded with unusual rock formations.
 The panel compartment is empty.
-The panel is closed.
+パネルは閉じている。
 First the kit must be opened.
 Done.
 First the cabinet door must be opened.
 There is not enough room in the panel compartment.
-The gun is unlike any gun you've ever seen before.  An orange gauge on the side
+見たことのないような銃だ。側面にオレンジ色のゲージは
 複数の方向があるため、方向を指示しなければならない。
-Here is your present condition:
+現在のあなたの状態:
 You feel weak from lack of food.
 You get down and bogie for a moment, then look around, somewhat blushed!
-You hear something rattling inside the bottle.
+ビンの中から何かが転がる音がした。
 You discover nothing by that action.
 Since you cannot move that, you cannot shake it!
 You can't find a good spot to put it.
 The banana is peeled, exposing a less than appealing fruit.
 The banana is unpeeled.
-The flashlight is turned on.
-The flashlight is off.
+懐中電灯の明かりは点いている。
+懐中電灯は明かりは消えている。
 The rectangular black box, simple in design, has a single switch on the top.
 The large metal chair has two dials on the side, one colored gold and the other
 silver.  On the other side is a single tan colored button.
-The shield is raised, exposing deadly radiation.
-The shield is closed, protecting you from the reactor's radiation.
-You are in relatively good shape.
+シールドは上がっていて、致死量の放射線に曝されている。
+シールドは閉じていて、原子炉の放射線からあなたを守っている。
+比較的調子がよい。
 You don't have a gun in your possession!
 A blinding prismatic glow engulfs the chair, then slowly fades away.
 You reluctantly settle into the uncomfortable metal chair, your feet dangling!
 You happily lift yourself from the chair's hard surface.
 It would help if your feet were touching the floor!
-A beam of light strikes the floor and leaves a scorched mark!
+光線が床に命中して焦げ跡を作った!
 Lying near the end of the bridge is an unusual object.
-The cages are too grotesque to enter!
+恐ろしくてとても中には入れない!
 That doesn't seem to help.
 The saucer's hatch is open.
 The saucer's hatch is closed.
-You hear shuffling behind one of the cages.
+箱の陰で何かが這い回る音が聞こえた。
 Several hours later you wake up and struggle to your feet.
 The cage door is closed with a thick chain!
 The chain disintegrates under the bright beam of light.
@@ -225,7 +225,7 @@ The cage door slowly swings open.
 The cage bars crackle for a moment, but remain undamaged.
 The cage door won't budge, it seems to be stuck.
 The crator is a huge pit sunken into the earth, miles across.
-The equipment is much too complicated for you to understand.
+設備は複雑すぎで理解できない。
 The huge building looks neglected, a metal door is the only visible entrance.
 The building consists of walls, a floor and a ceiling.
 The wooden bridge appears to be about 50 years old.
@@ -251,12 +251,12 @@ You manage to chip away only a small amount of ice.
 The hexagons are too strong to be damaged, or dug into.
 The wall is too solid to dig into.
 For an instant you see a large shadow move away!
-The blue piece of fur looks like it was torn from a creature escaping a cage.
+この青い毛皮の切れ端は檻から逃げ出した生き物のもののようだ。
 The walls, and the passage, appear to be carved by man, with great heat!
 The huge saucer is pie-shaped, and over 50 meters across.  The silver colored
 metal is glass smooth.  The saucer is well embedded into the earth, only ten
 meters of the ship protrude above the ground.
-The fallen boulders from the rockfall block the way.
+落盤のせいで進めない。
 ロープを短い2本にしても無意味なので、あなたはロープを切るのをやめた。
 You raise the blade to your throat, then come to your senses!
 Glistening slime and jelly drip from the cage bars.
@@ -265,13 +265,13 @@ The glass smooth walls are too slippery to scale.
 OK, returning to last game position...
 頭の上でコウモリが飛ぶ音が聞こえた。
 巨大な魚が頭の上で止まり、あなたを調べまわり、そして興味なさげに泳ぎ去った。
-A tiny creature, resembling a rat, darts across the floor and under a machine.
+ネズミのような小さな生き物が床の上を横切り、機械の下に隠れた。
 タイタニック号の残骸が流れて行き、そして見えなくなった。
-You hear rattling in the ceiling as some dust tumbles out of a vent.
+天井の通気口からガタガタという音が聞こえた。
 The strange wall has collapsed and vanished!
 The door is bolted shut!
-Since you're not too tired you decide not to rest now.
-The alien suit is in fairly good shape.
+休まなければならないほど疲れていない。
+エイリアンのスーツの状態は悪くなさそうだ。
 You walk about fifty meters up the road...
 The steep concrete walls cannot be traversed!
 A badly mangled piece of wire is laying here, half buried under some dirt.
@@ -302,7 +302,7 @@ Do you really expect that to happen!
 Let's face it chum, no can do.
 A magician you are not!
 The odds of that happening are less than the odds of the Titanic being raised!
-This isn't the fairy tale land of "Anything Goes!"
+これは「何でもあり」のおとぎばなしではない!
 You don't own much stock in reality, do you?!
 The object plunges into the water and disappears!
 The object sinks in the water and vanishes!
@@ -403,9 +403,9 @@ The creature utters a few strange words back to you and resumes the chase!
 The rope falls off the thrown object.
 It looks like a rectangular cartridge, with small notches at one end.
 The keyhole has nothing in it.
-救命ボートを探す乗客たちがあなたの側を近くを通り過ぎた!
+救命ボートを探す乗客たちがあなたの近くを通り過ぎた!
 You just glimpse a brief explosion of light on the very edge of the horizon.
-You smell it, poke it, taste it, and talk to it, yet you learn nothing new.
+におったり、つついたり、なめたり、話しかけたりしたが、何もないことがわかった。
 Raised letters read: "LOWER ELEVATOR ACCESS CARD.  IF FOUND RETURN TO FLOYD."
 The card slips and disappears behind the locked door!
 The mangled door looks like it was ripped open.
@@ -419,5 +419,5 @@ Just because it looks like a stove doesn't mean it is a stove!
 The dial goes from 'A' to 'Z.'
 The lifeboat rocks a little as you try to take the thick rope!
 How sad it is, reduced to a crawler!
-You hear some unusual sounds!
-You can't see clearly into the bottle, the glow is too bright.
+おかしな音が聞こえた!
+ビンの中はまぶしくてよく見えない。
