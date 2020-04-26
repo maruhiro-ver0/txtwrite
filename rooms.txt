@@ -36,24 +36,24 @@
   部屋に入ると、最初に気づいた音はこの部屋のものだとわかった。熱を帯びた巨大な金	属の構造物が部屋の大半を占めている。大きな透明のプレートが構造物の中央にある。大	きな赤いボタンが扉の近くの壁にある。
   ここは貨物室のようだ。たくさんの空箱や奇妙な設備がある。
   ここは貨物室のようだ。たくさんの空箱や奇妙な設備がある。
-  ここは貨物室のようだ。たくさんの空箱や奇妙な設備がある。                      	足元には大きな、ぬるぬるとしたもので包まれた卵がある。
+  ここは貨物室のようだ。たくさんの空箱や奇妙な設備がある。                      	足元には大きな、ヌルヌルとしたもので包まれた卵がある。
   ここは貨物室のようだ。たくさんの空箱や奇妙な設備がある。
-  You are inside one of the many cages within the lower cargo bay of the saucer.	Slim and jelly drip from the bars.  To the west the cage door has been closed   	and chained, there is no escape but through the door!
-  You standing at the center of a broken wooden bridge, loose boards creak as   	you walk along it.  Underneath a fast flowing stream winds to the east.  Dusty  	clouds scar the sky.  The bridge continues to the south, the broken end is      	further north.
-  This is the broken end of the bridge, where a large section has collapsed     	into the rapid waters below.  The unreachable north bank reveils desolate       	waste lands to the horizon.  The bridge continues southward from here.
-  This is the southern end of the collapsed bridge.  Further south the dirt     	path joins a dusty road, which follows the river.  The bridge arcs over the     	river to the north.
-  This is a discarded dirt road heading both east and west.  Any tracks have    	long been washed with the wind.  You can still view the bridge to the north.    	The south bank of the road consists of a sheer concrete wall.
-  This is a deep deserted road leading both east and west.  The steep banks are 	reinforced with thick concrete and appear unclimbable.  A separate dirt path    	breaks off to the south.
-  This is a deep deserted road leading both east and west.  The steep sides of  	the road are built out of thick concrete slabs.
-  The road ends abruptly here.  Below you lies a steep slope leading into a vast	crater to the west.  You estimate that the crater is at least two miles across. 	You wonder how this enormous pit in the Earth came to be.  All around you are   	dozens of large boulders, you notice too that the crater is dotted with similar 	boulders.  You are also startled by the numerous footprints in this area.  The  	dusty road forms a nearly straight path to the east.
-  This is the bottom of the deep, dusty, boulder filled crater, at least two    	miles wide.  To the east you can see the worn path where you entered the huge   	pit.  Footprints like the ones you saw above the crater cover the entire area.
-  You are standing at the north end of a large four story building.  The        	windowless walls are line with eroded cracks, the surrounding land appears to be	completely neglected.  The large glass doors to the south have long been broken 	and twisted out of shape, with jagged edges angling in all directions.
-  This is the building's main lobby area, full of broken chairs and tables.     	Rubble and trash litter the cracked marble floor.  To the south is a shimmering 	wall of orange light.  A small sign hangs beside the beams.  The broken glass   	door is behind you to the north.
-  This is an empty room, but for the rubble.  Exits lie in many directions.
-  This is an empty room, but for the rubble.  Exits lie in many directions.
-  This is an empty room, but for the rubble.  Exits lie in many directions.     	You notice a strange updraft.
-  This is an empty room, but for the rubble.  Exits lie in many directions.
-  This is a strangly lit room below the building.  Empty shelves cover the      	walls.  A big blue cabinet sits against the north wall.  The stairs to the      	south lead back to an office.
+  円盤の下層にある貨物の中にいる。ドロドロしたものがパイプから流れ込んでいる。西	にある扉には鎖が巻きつけられているが、出口はそこしかない!
+  破壊された木造の船橋の中央にいる。ボロボロになった甲板は歩くときしむ音がする。	下を見ると、水は東へと流れている。灰色の雲が空を覆っている。船橋は南へと続き、北	の端は破壊されている。
+  ここは破壊された船橋の端で、かなりの部分が水に浸かっている。北を見ると、地平線	まで荒涼とした大地が続いている。船橋は南へと続いている。
+  朽ち果てた船橋の南の端にいる。遠くを見ると、川沿いの泥道が砂だらけの道路とつな	がっている。船橋は川に沿って北へと向かっている。
+  ここは放棄された砂だらけの道路だ。東と西に続いている。どの道も長い間風に晒され	ているようだ。北には船橋がまだ見える。道路の南側にはコンクリートで固められた岸が	ある。
+  砂が厚く積もった東西の道路にいる。丈夫なコンクリートの崖は上れそうにない。泥だ	らけの小道が南へと分かれている。
+  砂が厚く積もった東西の道路にいる。道路の両側はコンクリートで固められている。
+  道路は突然ここで途切れている。足元には急な斜面があり、その西側は巨大なクレータ	ーだ。クレーターの直径は3キロメートルはあるだろう。いったい地球に何があったのだ 	ろうか。周りには大きな岩がたくさんあるが、このクレーターは同じような岩でできたよ	うだ。さらにあなたはこの辺りにたくさんの足跡があることに気づき驚いた。砂だらけの	道路はまっすぐ東へと向かっている。
+  深く、砂と岩だらけの、直径3キロメートルのクレーターの中にいる。東にはあなたが 	下りるときに作った道が見える。クレーターの外で見たような足跡はここにもある。
+  大きな4階建てのビルの北側にいる。窓のない壁がひび割れていて、この辺り一帯は完 	全に放置されている。南のガラスの扉は、かなり昔に壊れていて破片が散らばり形を留め	ていない。
+  ここはビルのメインロビーで、壊れた椅子やテーブルでいっぱいだ。ひび割れた床には	ゴミとがれきが散らばっている。南の壁はオレンジ色の光で輝いている。光線のとなりに	は小さな看板がある。後ろの壊れたガラスの扉は北へと続いている。
+  ここにはゴミ以外は何もない。様々な方向に出口がある。
+  ここにはゴミ以外は何もない。様々な方向に出口がある。
+  ここにはゴミ以外は何もない。様々な方向に出口がある。                          	奇妙な下からの風を感じた。
+  ここにはゴミ以外は何もない。様々な方向に出口がある。
+  ここは奇妙に明るい地下室だ。壁一面に空の棚がある。大きな青いキャビネットが北側	の壁に沿って置かれている。南の階段でオフィスに戻ることができる。
   This is another empty room, but for the rubble and a rusty ladder going up to 	a square hole in the ceiling.  An exit lies to the northeast.
   You are standing on the roof of the large building.  From here you can view a 	lot of the surrounding area.  To the west lies the huge crater, to the south is 	an open desert spanning to the horizon, the broken bridge stretches halfway     	across the stream to the northwest, while the stream flows toward the northeast.	  Built into the roof are two large concrete circles.  On one is an unusual     	vehicle, which looks like it's in fairly good shape.
   You are sitting inside the vehicle.  In front of you is a complicated control 	panel, covered with buttons, dials and lights.  Of particular interest is an    	oversized white button, with a small keyhole above it.  Also catching your eye  	is a large lever coming from the floor, to the right of the lever is a bright   	red sign.
