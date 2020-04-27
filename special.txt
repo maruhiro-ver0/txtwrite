@@ -39,11 +39,11 @@ As you remove the alien suit you notice a dramatic rise in temperature,         
 ゆっくりと、しかし確実に、急斜面を張り付くように登った。どうにか出ることができ  	た。
 You leap from the bridge into the fast flowing stream below.  The rapid current 	tosses you around like a twig and finally drags you underneath.
 突然背後の岩陰からフードをした人間のような姿が飛び出しあなたの持ち物を掴み取っ  	た! それはあなたが冷静さを取り戻す前にクレーターの東の端に駆け上がった。
-判断が正しいかはわからないが、あたなた明るいオレンジの光線を通った。電気的なバリ	アを通過すると、突然あなたの手足が見えなくなった。次の瞬間、あなたは別の場所に転	送された…
+判断が正しいかはわからないが、あなたた明るいオレンジの光線を通った。電気的なバリ	アを通過すると、突然あなたの手足が見えなくなった。次の瞬間、あなたは別の場所に転	送された…
 天井の隙間から床の隙間へと向かう明るいオレンジ色の光線は、まるで生きているかのよ	うに動いている。光線の幅は大きな扉ほどだ。光線のとなりの壁には看板がかかってい  	る。
 小さな看板を見た:                                                               	                     各階の案内                                                 	                     1階:  広告                                                 	                     2階:  放送                                                 	                     3階:  メンテナンス                                         	                     4階:  ビジネス
 フードをした、ミュータントのような生き物が背後の岩から突然現れあなたの持ち物を奪	い取ろうとしてきた! あなたは抵抗したが、クレーターの端に追いやられた。あなたはク	レーターの急斜面を転がり落ち、ミュータントは逃げ去った。
-You bend down to the rusty lock's level and insert the piece of wire into the   	hole.  You spend several minutes wiggling and twisting the wire, trying to pick 	the lock open.  Your patience just about expires when...click!...the cabinet    	door springs open!
+  あなたは錠前の高さに身を屈め、鍵穴に針金を差し込んだ。鍵を外すため、数分の間針	金を抜き差ししたりひねったりした。その努力は…カチャッ…キャビネットが開き実っ  	た。
   Below you lies a small, muddy lake, probably nearing the end of its existence.	A very small stream breaks off to the southwest, but fades into nothing within  	a quarter of a mile.
   Below you appears to be the remains of a small town.  The entire area is      	riddled with small pits, craters and depressions.  In your mind you picture     	what might of happened here, the thought is not a pretty one.
   You've entered a desert area, except for the lack of rolling sand dunes.  The 	whole area does not seem natural, as if it was once a pasture teaming with life.	On the horizon you can see a few mountains.
@@ -81,5 +81,5 @@ You hit a soft patch of grass, look up, and view several tall, green trees,     
                                                                                 	The monster grabs with two of its three clawed arms and rips you to shreds with 	its middle arm.  Hours later you provide a royal feast for the resident rats!
                                                                                 	The monster leaps across the room and knocks you to the ground.  You struggle   	with it as it wraps you up in its arms and begins feasting on your tasty skin!  	A few hours later your discarded bones provide the perfect start to a rat's     	nest.
 The creature reaches out with one of its three clawed hands and grabs your arm. 	You try to break free, but the monster is too strong.  It breaks your arms and  	legs so that you can't get away, then the slobbering monster moves in for the   	kill.  You close your eyes and....
-                 - - - - - - -  W A R N I N G  - - - - - - -                    	                                                                                	This lever to be used only in case of an emercency.  The pilot MUST be properly 	equipped.  This lever is not a toy!!!  Use only as a last resort.  DANGER!!!!!!
+                 - - - - - - - - - 警   告 - - - - - - - - -                    	                                                                                	このレバーは緊急時専用である。パイロットは必ず装着すること。このレバーはオモチャ	ではない!!! 他に手段がない場合のみ使用すること。危険!!!!!!
   You are inside a shuttle that is flying high above the ground.  In front of   	you is control panel covered with complicated looking equipment.  Notable is an 	oversized white button with a keyhole below it.  Also catching you attention is 	a large lever coming from the floor, and a bright red sign to the right of the  	lever.

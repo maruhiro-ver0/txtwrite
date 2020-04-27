@@ -166,7 +166,7 @@ The three foot long metal stake is slightly rusted.
 小さな薬は光を放っている。
 エイリアンのスーツの状態は良さそうだ。
 傷だらけの合衆国25セント硬貨、年代は2111年だ!
-You are not wearing the suit to begin with.
+そもそもあなたはスーツを着ていない。
 体にぴったりのスーツをどうにか脱ぐことができた。
 まず脱がなければならない。
 強く引いてハッチを閉じた。
@@ -232,7 +232,7 @@ The wooden bridge appears to be about 50 years old.
 The vent looks like it might be used to circulate air throughout the saucer.
 Unfortunately, you were IN the suit!
 Your body explodes in a prismatic array of light...the gun drops to the ground.
-You can't carry that many objects at one time!
+そんなにたくさんの物を一度に持てない!
 First the bottle must be open!
 バナナの皮を戻そうとしたができなかった。
 It must be open first!
@@ -293,7 +293,7 @@ A tall fence blocks your path.
 壊れたガラスの扉の破片がビルの前の通路に散乱している。
 A small flash of orange light engulfs the object as it vanishes into the beams.
 Static electricity crawls up and down your arm like millions of hungry ants!
-The debris consists of broken wood, charred rocks and trash, strewn all about.
+木片、焦げた岩、ゴミが辺りに散らばっている。
 端から落ちて急流に流されてしまうだろう!
 青いキャビネットの高さは2メートル程で、扉には錆びた錠前が付いている。
 キャビネットは空いている。
@@ -316,16 +316,16 @@ The door closes with a small click from the lock.
 The rusty lock glows bright red for a moment then cools off.
 The first word must be a verb or a command.  (e.g. drink, score, take.)
 どうやって? 何を使って?!
-You must take the suit off first.
-The helmet seems to mold to the shape of your head when you put it on!
-You must remove the helmet first.
-  The helmet is being worn.
-The helmet is now off.
-But you are not even wearing the helmet!
-Inside the cabinet you find:
-The shuttle does not move!
-A beep tone from the speaker signals your action.
-It won't fit!
+まずスーツを脱がなければならない。
+ヘルメットは被るとあなたの頭の形にぴったりになった!
+まずヘルメットを脱がなければならない。
+  ヘルメットを被っている。
+ヘルメットを脱いだ。
+だがあなたはヘルメットを被っていない!
+キャビネットの中には次のものが入っていた
+シャトルは動いていない!
+ブザー音が鳴り響いた。
+合わない!
 緊急救命箱: 開いている。
 緊急救命箱は空だ。
 緊急救命箱には次のものが入っていた:
@@ -333,10 +333,10 @@ It won't fit!
 安全ベルトが外れた。
 驚くべき氷の洞窟を歩き回った…
 From out of nowhere the game's designer appears and leads you to safety....
-First you must take the helmet off.
-The shiny key is in the keyhole.
-The shiny key fits perfectly in the keyhole!
-On the side of the futuristic helmet are the words: "FLIGHT CONTROL."
+まずヘルメットを脱がなければならない。
+輝く鍵は鍵穴にささっている。
+輝く鍵は鍵穴にぴったりと合った!
+未来的なヘルメットの横には「飛行用」と書かれている。
 A few dusty shelves.
 You suddenly realize you've been walking westward for the last half hour!!!
 You would definately crash if you tried to land here!
@@ -353,7 +353,7 @@ A few sparks fly out of the controls, but nothing interesting happens.
 The shuttle's controls appear to be damaged.
 The shuttle is slightly dented and cracked on the left side.
 Do you really want to fall over the side of the floating city?!
-The steps lead into darkness.
+はしごの先は真っ暗だ。
 You notice a sour smell here, reminding you of the cave with the cages.
 There is a three-armed, slobbering creature heading straight at you!!
 You cannot exit the shuttle in that direction.
@@ -387,9 +387,9 @@ At the moment the screen is blank.
 You see multi-colored patterns, changing and shifting erratically.
 A few of the large screens display rapidly shifting patterns!
   It is inside the slot.
-  It is on a shelf in the big cabinet.
+  それはキャビネットの棚の上にある。
   それはパネルの奥にある。
-  It is inside the red survival kit.
+  それはサバイバルキットの中にある。
 : Is one too many nouns!
 ' does not make sense here.
 針金はとても細いが丈夫だ。長さは約5センチメートルだ。
