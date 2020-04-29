@@ -7,12 +7,12 @@
   救命ボートは得体の知れない力によって引き起こされた波で激しく揺れている。前の方	からまるで滝のような大きな音が聞こえる! あなたの行く手は周りよりも暗く見える。
   それが巨大な渦だと気づいたときにはもう遅かった! あなたは木の人形のように海に投	げ出されだ。あなたの最期の一呼吸は10%の空気と90%の水だった。これはまったく健康的	ではない。
   大きく揺れるボートの先に巨大な渦が見える!! 渦に飲み込まれたあなたは回転で座席 	に強く押し付けられ、気を失ってしまった…
-You are given a life shocking jolt as you glimpse the image above you--it's the 	Titanic!!!  Resting not more than twenty feet above you is the bottom hull of   	the once mighty ship.  Dead bodies, fallen from the wreck, are scattered about  	the floor of the ice like cake decoration.  The horror is too real and you bow  	your head, unable to view the sight anymore.
+  あなたは一瞬見上げたが、それは人生で最も衝撃的な光景だった―タイタニック号だ!!	5メートルもないところに、かつて巨大な船だったものの船底が浮かんでいる。死体や貨 	物が、まるでケーキのデコレーションのように氷の上に散らばっている。あなたは余りの	恐ろしさに目を背けた。
   それはよくない決断だった! あなたが立っていた洞窟は、2秒間で500,000トンもの氷水	で満たされた。頭上のどこかにあったタイタニック号も流れ込み、あなたの亡骸の1メー 	トル手前で止まった。何と皮肉なことか。後に船を発見した者は誰でもあなたは船と共に	沈んだと考えるだろう!
   その言葉を言い終えると壁の六角形が震え出した! そして、すぐに壁全体がまるで生き	ているように揺れ始めた。洞窟が崩れるようだ! あなたの目の前で六角形が丸く変形し、	互いに結合できなくなり地面に落ちた。しばらくすると、壁を構成していた残りの丸いも	のも全て地面に落ち、そしてその衝撃で消えた。残されたのは新しい通路だけだ!
   洞窟の壁に刻まれた文字を読んだ:                                               	    『旅人よ気をつけろ――                                                      	        素晴らしき冒険者達は挑戦し…そして死んだ                                	      この壁は行く手を阻むであろう                                              	        この言葉を言わぬ限りは                                                  	          ケラヒ ヨチミ』
   壁は自然にできたものではないようだ。その異様な形態はまるで別世界のもののように	見える。壁は無数の小さな六角形でできていて、それぞれが完全に結合している。それは	完璧で――そして何かありそうだ。
-Suddenly the flashlight flickers with its final burst of light...then goes out! 	You instantly realize the severity of the situation, and in a spasm of anger    	you toss the flashlight against the ground.  You listen with sorrow as many     	fragments hit the surrounding features.
+  突然、懐中電灯が激しく点滅し…そして消えた! あなたはすぐに深刻な状態であること	に気づき、発作的に懐中電灯を地面に叩きつけた。破片が様々なものに当たる音が聞こえ	た。
   小さな洞窟の通路にいる。東の壁はあなたの奇妙な言葉で消え、新しい道が残された。	そこには別のトンネルが交差していて、出口が南西と北東にある。広い道は西へと続いて	いる。
 Just as the rope snaps two of the ship's police walk around the forward deck on 	their routine patrol.  Of course, they are not amused by your foolhardy deed.   	They haul you off to a secluded cabin and bolt the door from the outside!       	                         
   You are inside one of the many cages within the lower cargo bay.  The cage    	door to the west is wide open.  Gooey slime and jelly drip from the cage bars.
@@ -44,25 +44,25 @@ You leap from the bridge into the fast flowing stream below.  The rapid current 
 小さな看板を見た:                                                               	                     各階の案内                                                 	                     1階:  広告                                                 	                     2階:  放送                                                 	                     3階:  メンテナンス                                         	                     4階:  ビジネス
 フードをした、ミュータントのような生き物が背後の岩から突然現れあなたの持ち物を奪	い取ろうとしてきた! あなたは抵抗したが、クレーターの端に追いやられた。あなたはク	レーターの急斜面を転がり落ち、ミュータントは逃げ去った。
   あなたは錠前の高さに身を屈め、鍵穴に針金を差し込んだ。鍵を外すため、数分の間針	金を抜き差ししたりひねったりした。その努力は…カチャッ…キャビネットが開き実っ  	た。
-  Below you lies a small, muddy lake, probably nearing the end of its existence.	A very small stream breaks off to the southwest, but fades into nothing within  	a quarter of a mile.
-  Below you appears to be the remains of a small town.  The entire area is      	riddled with small pits, craters and depressions.  In your mind you picture     	what might of happened here, the thought is not a pretty one.
-  You've entered a desert area, except for the lack of rolling sand dunes.  The 	whole area does not seem natural, as if it was once a pasture teaming with life.	On the horizon you can see a few mountains.
-  You are above a desert area that is covered with craters and pits, all        	relatively small in comparison with others you've seen.  Mixed in with the sand 	you can barely see jagged pieces of concrete and other rubble.                  	On the horizon you can see a few mountains.
-  You are above the fast flowing river that passes by the large building and    	broken bridge.  The river flows from the southwest and bends north here.  A     	half mile north, though, the river curves hard to the right again and fades in  	the distance.
-  You are flying above a stream that probably comes from the mountains in the   	distance.  The stream doesn't hold much water and looks like it's about to run  	dry pretty soon.
-  Below is a very small town that probably had a population less than 50 people.	The place looks deserted now, abandoned vehicles of some kind litter the roads. 	Several roads exit the town, heading off in random, appearently pointless       	directions.
-  You are above one of the many mountains in this area.  A small, slow flowing  	streams flows from a cave at the base of one of the mountains here.  All around 	you the desert-like landscape spreads to the horizon.  These mountains are the  	only break in the flatness.  The clouds above you cast eerie shadow on the      	mountain sides.
-  You are flying above a huge crater like the one by the broken bridge.  Rubble 	is scattered all around the crater's edges, mixed with large boulders.
-  Below you are a few small hills that build up to the mountains in the near    	distance.  A slim stream winds its way through the tangled arrangement and      	bends towards the west into the flatland area.
-  Below is a small crack in the Earth forming a shallow canyon, about 100 yards 	across and a half mile long.  The large shadows of the thich, hazy clouds       	blocks the light enough so that you can't see into the canyon very well.
-  The desert-like area blends into a less sandy area here, and forms a small    	region of hard flatland.  This might have been a large, shallow lake in the     	past, fed from streams that came from the mountains in the distance.
-  You are above a large dry lake area, the cracked clay pan area gives a clear  	indication to the once water-filled area.  The shadows of clouds roam across    	the empty area, heading southward.
-  You are above a vast desert area.  Above you is a thick layer of clouds,      	which blocks out at least 50 oercent of the sun's light.  In the distance you   	can see a small mountain range.
-  You are above a concrete bridge that crosses the same river that passes the   	large building.  This bridge is in fairly good shape and provides a complete    	passage for the road that meets it.  The road heads northward, but slowly       	curves to the east.
-Without warning, the shuttle's engine begins to humm with activity, suddenly you	are jolted back into the seat as the shuttle raises from the roof and high into 	the sky.  You finally level out about a half of a mile below the thick cloud    	cover...
+  干上がる寸前の小さな沼の上空にいる。とても小さな川が南西に向かって流れている  	が、約500メートル先で途切れている。
+  小さな町の跡の上空にいる。この辺りは大小の穴だらけだ。いったい何が起こったの  	か。あなたの心の中を恐ろしい想像が巡った。
+  何もない砂漠の上空に到達した。この辺りは初めから砂漠だったのではなく、かつては	生き物がたくさんいる牧草地だったようだ。地平線の辺りに山がいくつか見える。
+  砂漠に作られたクレーターの上空にいる。それと比べると全てが小さく見える。砂には	わずかにコンクリートの破片や他の瓦礫が混じっている。地平線の辺りには山が見える。
+  大きなビルと壊れた橋の間にある急な流れの川の上空にいる。川は南西から流れ、北の	方へ曲がっている。さらにその先1キロメートル程で川は急に右に曲がり見えなくなって 	いる。
+  あなたは、恐らく遠くの山脈から来た川の上空にいる。川の水は少なく、今にも干上が	りそうだ。
+  50人ほどが住んでいたであろう、とても小さな町の上空にいる。ここも今では砂漠にな	っていて、路上に乗り物のようなものが何台も放置されている。町から出る道路はさまざ	まな方向へと向かっている。
+  山脈の上空にいる。小さく流れが緩やかな川が山の洞窟から流れている。どの方向を見	ても、砂漠のような光景が地平線まで広がっている。平らでないのはこの山脈だけだ。雲	が山々に不気味な影を作っている。
+  壊れた端の近くにある巨大なクレーターの上空にいる。クレーターの縁にはあらゆる方	向に大きな岩の混じった瓦礫が散らばっている。
+  あなたの下には小さな丘があり、その近くには山々がある。細く入り組んだ川が西の平	地へと流れている。
+  あなたの下には地割れがあり、それが小さな谷を作っている。幅は100メートル、長さ 	は500メートル程だ。厚くどんよりとした雲が作る影のせいで谷の中はよく見えない。
+  この辺りは砂漠のような場所と砂の少ない場所が混ざり、固い平地になっている。遠く	の山々から来た小川とつながっていて、かつては広く浅い池だったようだ。
+  ひび割れた粘土が広がる浅いくぼ地の上空にいる。ここは干上がった池で、かつては水	があったに違いない。何もない場所に、雲が作る南向きの影が散らばっている。
+  広大な砂漠の上空にいる。さらに上には厚い雲の層があり、日光を半分ほど遮ってい  	る。遠くには小さな山脈が見える。
+  ビルの近くの川に架かったコンクリート製の橋の上空にいる。橋の状態は良く、道路と	ビルをつなぐ通路になっている。道路は北へ向かっているが、緩やかに東へとカーブして	いる。
+前触れもなくエンジンが音を上げて動き出すと、シャトルが屋上から空へと発進し、あな	たは座席に押さえつけられた。シャトルは厚い雲の下、約2500メートルに達した…
 Abruptly the steady humming of the shuttle's engine ceases!  The shuttle tips   	over nose first and plummits toward Earth.  The tremendous gravitational forces 	push all of your limbs back against the seat.  You watch helplessly, and in     	terror as the ground rushes closer...and closer...and closer...and CRASH!!!
 As you move the lever an unforseen panel in the roof slowly slides open.  A     	great rush of wind whips your hair around as you watch.  Suddenly your seat     	snaps upward, ejecting you from the shuttle!!!  You glide freely to the Earth,  	enjoying its natural beauty as you fall.  Maybe, you wonder, you were supposed  	to have the parachute before you used the lever...SPLAT!!!
-The shuttle's engine seems to strain and vibrate as the nose angles upward.     	You are again forced back into your seat as the shuttle moves closer to the     	thick layer of clouds above.  Turbulence rocks the shuttle around as it enters  	the clouds, you can see nothing.  Within moments, however, the shuttle rises    	above the cloud barrier.  You are greeted with an amazing and unbelievable      	sight...a gigantic floating structure, resembling a large city.
+シャトルのエンジンが激しく振動し機首が上がった。あなたは再び座席に押さえつけら  	れ、シャトルは厚い雲の層に迫った。雲に突入するとシャトルは乱気流に巻き込まれ、何	も見えなくなった。だがしばらくすると、シャトルは雲の上に到達した。信じられない光	景だ…まるで都市のような構造物が浮いている。
 As you take the key from its slot the shuttle's engine whines, then stops!  The 	vehicle suddenly tilts forward, spiraling towards the ground.  The tremendous   	gravitational forces prevent you from putting the key back in.  You watch with  	horror as the ground moves closer...and closer...and closer...and CRASH!!!
 As you remove the helmet from your head the shuttle begins to tilt to the side. 	Suddenly it begins to spiral down to Earth!  The whiplash caused you to drop the	helmet on the floor.  And the great force of the fall prevents you from leaning 	over and picking it up.  You watch helplessly, and with frustration, as the     	shuttle plummits closer to the ground, and closer...and closer...and CRASH!!!
 The shuttle tilts forward a little and heads southward, dropping slightly in    	altitude.  As you move closer to the landing area you notice some rubble        	directly in your path.  Too late to react, though, you brace yourself against   	the seat as the shuttle hits the jagged piece of concrete...the shuttle slides  	for about 60 feet before coming to rest.  As you check yourself over, you       	notice a thin whisp of smoke coming from the shuttle's controls.
@@ -82,4 +82,4 @@ You hit a soft patch of grass, look up, and view several tall, green trees,     
                                                                                 	The monster leaps across the room and knocks you to the ground.  You struggle   	with it as it wraps you up in its arms and begins feasting on your tasty skin!  	A few hours later your discarded bones provide the perfect start to a rat's     	nest.
 The creature reaches out with one of its three clawed hands and grabs your arm. 	You try to break free, but the monster is too strong.  It breaks your arms and  	legs so that you can't get away, then the slobbering monster moves in for the   	kill.  You close your eyes and....
                  - - - - - - - - - 警   告 - - - - - - - - -                    	                                                                                	このレバーは緊急時専用である。パイロットは必ず装着すること。このレバーはオモチャ	ではない!!! 他に手段がない場合のみ使用すること。危険!!!!!!
-  You are inside a shuttle that is flying high above the ground.  In front of   	you is control panel covered with complicated looking equipment.  Notable is an 	oversized white button with a keyhole below it.  Also catching you attention is 	a large lever coming from the floor, and a bright red sign to the right of the  	lever.
+  あなたは飛行中のシャトルの中にいる。目の前には複雑な機械で覆われた制御盤があ  	る。目立つのは小さな鍵穴のある大きな白いボタンだ。さらに、床から伸びた大きなレバ	ーと、そのとなりの赤く光るサインも目を引く。

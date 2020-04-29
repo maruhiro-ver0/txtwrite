@@ -91,7 +91,7 @@ You are in too weak of a condition to carry many things at once!
 死骸はどれも見たことのない動物のものだ。
 あまりにも恐ろしく奇怪で触れない!
 青い毛皮の切れ端がある!
-You find nothing of interest inside there.
+中に興味深いものはなかった。
 There's no opening to reach in.
 The banana is reduced to pudding!
 On inpact the flashlight shatters into a dozen pieces.
@@ -101,7 +101,7 @@ You bump your shin on the edge of the saucer.
 この原子炉はエイリアンの宇宙船の動力源だ。シールドで守られている。
 巨大な透明のシールドが振動し、そして元の位置に下がった。
 巨大な透明のシールドが振動し、そして上がった…放射線に曝される!
-The device has a screen, a typewriter, and a microphone built-in.
+装置にはスクリーン、タイプライター、マイクが備え付けられている。
 『OK, スクリーンを切り替えました。』
 『あー、それでは停止します。バイバイ。』…カチッ!
 何も持っていない。
@@ -181,16 +181,16 @@ That dial does not have that number on it!
 On the ceiling is some sort of vent.
 You notice nothing unusual about the ceiling here.
 The ceiling here is crowded with unusual rock formations.
-The panel compartment is empty.
+パネルの奥は空だ。
 パネルは閉じている。
-First the kit must be opened.
-Done.
-First the cabinet door must be opened.
-There is not enough room in the panel compartment.
+まずキットを開けなければならない。
+やり終えた。
+まずキャビネットの扉を開けなければならない。
+パネルの奥には十分な広さがない。
 見たことのないような銃だ。側面にオレンジ色のゲージは
 複数の方向があるため、方向を指示しなければならない。
 現在のあなたの状態:
-You feel weak from lack of food.
+飢えで弱ってきた。
 You get down and bogie for a moment, then look around, somewhat blushed!
 ビンの中から何かが転がる音がした。
 You discover nothing by that action.
@@ -235,7 +235,7 @@ Your body explodes in a prismatic array of light...the gun drops to the ground.
 そんなにたくさんの物を一度に持てない!
 First the bottle must be open!
 バナナの皮を戻そうとしたができなかった。
-It must be open first!
+まず開けなければならない!
 You'd think that there would be a button for something like that!?
 The shuttle doesn't have a door.
 The suit fits without any special straps or buttons.
@@ -324,7 +324,7 @@ The first word must be a verb or a command.  (e.g. drink, score, take.)
 だがあなたはヘルメットを被っていない!
 キャビネットの中には次のものが入っていた
 シャトルは動いていない!
-ブザー音が鳴り響いた。
+アラームが鳴り響いた。
 合わない!
 緊急救命箱: 開いている。
 緊急救命箱は空だ。
@@ -339,11 +339,11 @@ From out of nowhere the game's designer appears and leads you to safety....
 未来的なヘルメットの横には「飛行用」と書かれている。
 A few dusty shelves.
 You suddenly realize you've been walking westward for the last half hour!!!
-You would definately crash if you tried to land here!
+ここで着地したらシャトルが壊れてしまう!
 You bail out of the shuttle and soar effortlessly into the ground...
 You fly a short distance above the clouds...
-The shuttle's engines whine as if strained, but you fly no higher.
-The shuttle leans forward, then dives through the cloud barrier...
+エンジンの出力を増したがこれ以上上昇できなかった。
+シャトルが前に傾き雲に飛び込んだ…
 You can't spot a safe place to land the shuttle.
 The shuttle creams into one of the towers...
 You see nothing special about the city from this vantage point.
@@ -402,9 +402,9 @@ As you speak the monster leans against the wall, as if he is slightly bored!
 The creature utters a few strange words back to you and resumes the chase!
 The rope falls off the thrown object.
 It looks like a rectangular cartridge, with small notches at one end.
-The keyhole has nothing in it.
+鍵穴には何も挿さっていない。
 救命ボートを探す乗客たちがあなたの近くを通り過ぎた!
-You just glimpse a brief explosion of light on the very edge of the horizon.
+地平線の間際で爆発の閃光が一瞬見えた。
 におったり、つついたり、なめたり、話しかけたりしたが、何もないことがわかった。
 Raised letters read: "LOWER ELEVATOR ACCESS CARD.  IF FOUND RETURN TO FLOYD."
 The card slips and disappears behind the locked door!
