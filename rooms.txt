@@ -63,12 +63,12 @@ Empty File 2...
 Empty File 3...
   厚く暗い雲の上を飛行している。地上ははっきりとは見えない。雲はあらゆる方向に広	がっている。東の方には都市のような巨大な構造物が悠然と浮かんでいる! 高いビルなど	は宇宙まで達するかのようだ。都市の下側からは雲を貫く奇妙な光が発せられているが、	ここからはよく見えない。
   厚く暗い雲の上を飛行している。地上ははっきりとは見えない。雲はあらゆる方向に広	がっている。西の方には都市のような巨大な構造物が何事もなく浮かんでいる! ビルなど	の建物が更に空高く伸びている。都市の下側から発せられた明るい光が地上を照らしてい	るが、ここからはよく見えない。
-  You are flying quite close to the floating city now, which is about 200 yards 	away.  From here you can see a network of roads and inclosed tubes within the   	city, forming an obvious transportation system.  Strangely, though, you don't   	see any signs of life.
-  You are flying close to the north side of the floating city.  From here you   	can see a large flat area within the buildings, roads and towers.  You also see 	what looks like another vehicle sitting there, like the one you are flying.
-  To the west is the floating city, about 200 yards away.  On this side you can 	easily see the raods that interlace the city.  The tallest building is on this  	side, its shadow falls on your vehicle.  You still don't see any signs of life.
-  The floating city-like structure is to your north.  The massive towers block  	any view into the heart of the city, but a few large tubes circle around the    	outside, in some cases they travel through the towers!  There's no visable way  	into the floating city from here.
-  You are inside the damaged shuttle, wrecked from the slight collision with the	jagged concrete to the north.  A thin line of smoke is rising from the shuttle's	controls.                                                                       	  The shuttle is resting on a large concrete bay of some kind.  You can see a   	stairway leading down to the southeast.  To the north you can see the clouds    	looming on the horizon, while in all other directions towers block your view.
-  This is the large concrete bay.  Your shuttle sits to the south, slightly     	bent up near the bottom.  Huge towers, with interlacing tubeways, provide a     	panoramic view, except to the north, where you can see out into the             	nothingness.  The dark path of steps to the southeast leads down under a tower.
+  都市のすぐ近く、200メートル程はなれた場所を飛行している。ここからは都市内の移 	動のために張り巡らされた道路網やチューブがよく見える。だが、人の気配はない。
+  都市の北側のすぐ近く、200メートル程はなれた場所を飛行している。ここからは都市 	の道路やビルの近くの広い開いた場所がよく見える。いま乗っているような乗り物も停ま	っている。
+  浮遊する都市の西側の200メートル程はなれた場所を飛行している。ここからは都市に 	張り巡らされた道路網がよく見える。最も高いビルの影がこのシャトルにかかっている。	人はまだ見えない。
+  浮遊する都市のような構造物が北側に見える。巨大な建物の陰になっているため都市の	中心は見えない。大きなチューブが外側に張り巡らされていて、人々はそこを通って建物	を行き来していたようだ! ここからは都市には入れなさそうだ。
+  北に見えるコンクリートの塊と衝突して故障したシャトルの中にいる。シャトルの操作	盤から細い線のような煙が上がっている。                                          	  シャトルはコンクリート製の広い港のような場所に停まっている。南東には下へと向か	う階段がある。北側には地平線まで雲が見え、その他の方向は建物が視界を遮っている。
+  ここはコンクリート製の広い港だ。南に見えるあなたのシャトルは底が少し歪んでい  	る。北の方角以外はチューブ上の道が張り巡らされた巨大な建物がパノラマ状に広がって	いる。南西の暗い道は建物の地下へと続いている。
   You are in a small room with the walls lined with controls, machines, dials,  	and screens.  There is no activity between any of them, however.  The steps to  	the northwest lead back to the concrete bay.  Another doorless passage leads    	east, into a dimly lit room.
   This area is only a small section of a long corridor, heading both north and  	south.  Passages exit both east and west, also.
   This area is only a small section of a long corridor, heading both north and  	south.  Passages exit both east and west, also.

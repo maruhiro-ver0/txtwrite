@@ -341,22 +341,22 @@ A few dusty shelves.
 You suddenly realize you've been walking westward for the last half hour!!!
 ここで着地したらシャトルが壊れてしまう!
 You bail out of the shuttle and soar effortlessly into the ground...
-You fly a short distance above the clouds...
+雲の上をしばらく飛行した…
 エンジンの出力を増したがこれ以上上昇できなかった。
 シャトルが前に傾き雲に飛び込んだ…
 You can't spot a safe place to land the shuttle.
-The shuttle creams into one of the towers...
+シャトルは建物と衝突した…
 You see nothing special about the city from this vantage point.
-The engines strain as the shuttle rises, and climbs through the clouds...
+エンジンがうなり声を上げ、雲の上へと登っていった…
 You see a bright glow radiating from beneath the city into the dusty clouds.
-A few sparks fly out of the controls, but nothing interesting happens.
-The shuttle's controls appear to be damaged.
-The shuttle is slightly dented and cracked on the left side.
-Do you really want to fall over the side of the floating city?!
+操作盤から火花が散ったが、何も起こらなかった。
+シャトルの操作盤は故障しているようだ。
+シャトルは少しへこみ、左側にひび割れがある。
+この空飛ぶ都市から飛び降りたいのか?!
 はしごの先は真っ暗だ。
 You notice a sour smell here, reminding you of the cave with the cages.
 There is a three-armed, slobbering creature heading straight at you!!
-You cannot exit the shuttle in that direction.
+その方向からはシャトルから出られない。
 The creature leaps at your feet and barely misses!
 The monster follows you, wildly waving his three clawed hands at your neck!
 You just manage to escape a swift claw attack from the pursuing creature!

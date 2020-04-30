@@ -12,10 +12,10 @@
   その言葉を言い終えると壁の六角形が震え出した! そして、すぐに壁全体がまるで生き	ているように揺れ始めた。洞窟が崩れるようだ! あなたの目の前で六角形が丸く変形し、	互いに結合できなくなり地面に落ちた。しばらくすると、壁を構成していた残りの丸いも	のも全て地面に落ち、そしてその衝撃で消えた。残されたのは新しい通路だけだ!
   洞窟の壁に刻まれた文字を読んだ:                                               	    『旅人よ気をつけろ――                                                      	        素晴らしき冒険者達は挑戦し…そして死んだ                                	      この壁は行く手を阻むであろう                                              	        この言葉を言わぬ限りは                                                  	          ケラヒ ヨチミ』
   壁は自然にできたものではないようだ。その異様な形態はまるで別世界のもののように	見える。壁は無数の小さな六角形でできていて、それぞれが完全に結合している。それは	完璧で――そして何かありそうだ。
-  突然、懐中電灯が激しく点滅し…そして消えた! あなたはすぐに深刻な状態であること	に気づき、発作的に懐中電灯を地面に叩きつけた。破片が様々なものに当たる音が聞こえ	た。
+  突然、懐中電灯が激しく点滅し…そして消えた! あなたはすぐに深刻な状態であること	に恐怖し、発作的に懐中電灯を地面に叩きつけた。破片が様々なものに当たる音が聞こえ	た。
   小さな洞窟の通路にいる。東の壁はあなたの奇妙な言葉で消え、新しい道が残された。	そこには別のトンネルが交差していて、出口が南西と北東にある。広い道は西へと続いて	いる。
-Just as the rope snaps two of the ship's police walk around the forward deck on 	their routine patrol.  Of course, they are not amused by your foolhardy deed.   	They haul you off to a secluded cabin and bolt the door from the outside!       	                         
-  You are inside one of the many cages within the lower cargo bay.  The cage    	door to the west is wide open.  Gooey slime and jelly drip from the cage bars.
+  あなたがロープを2つに切ったとき、甲板を見回り中の警備員がやってきた。もちろ   	ん、彼らはあなたの愚かな振る舞いを見逃さなかった。あなたは隔離されたキャビンに連	行され、外から鍵を掛けられてしまった!
+  円盤の下層にある貨物の中にいる。西の貨物の扉は空いている。ドロドロしたものがパ	イプから流れ込んでいる。
   あなたは何があるかわからない谷底に向かってロープから飛び下りた! しばらくした  	後、あなたは地面に叩きつけられた。パキッという音と共に、両腕に激痛を感じた。その	ときの衝撃であなたの持ち物は飛び散った。
   目の前にあるものに気づいたとき、あなたは一瞬動けなくなった! それは巨大な金属の	円盤で、少なくとも幅40メートル、高さ5メートルはある。その上と周りのいたる所に大 	きな岩が見える。恐らく大昔に崩落したものだ。
 突然、機械に命が吹き込まれたようになり、女性の声が部屋に響いた:                 	『あー…、おはようございます。私をオンにしたいのですか? ご存知の通り、私への最後	の命令から長い時間が経過しました。あの事故以来、私のメモリはやや不安定です。スク	リーンに表示したいならば、番号を入力してください。確認開始…ああ、4番スクリーン 	に興味深い情報があります。何をしているのですか? 早くしなさい! 』
@@ -23,8 +23,8 @@ Just as the rope snaps two of the ship's police walk around the forward deck on 
 ..... .............. . . . .....  地..... ...... . . 着陸........未......... ...	... ....... 帰還.. .... 標本..獲し........ .. ... ... 収....... ..... ... . . . 	.........    . .     ..  ..  ..    ....         ................................	.... 了まで....還..ない... ...... .. ... ....... ........ .......球... ... 月...
 ............................................ ................ ..................	..      警..... >...>>.....>>  猛..青....物は ........ .....  . ..... ..険......	.....食....  ........ . .... .... .....  .....    .....       ....  . ..      ..	我... . .......査... ....           世.... ..種........... .    ...  .... ...  .
   .. 別..... ..... 時... 調査.....   生.... 進化...... ..... .. .... ... .......	............ .............   .  ...   ....... . .. .......  月...  .   ........ 	..2171年 ミュータ..ト.... 開発...... ...... .............   ... ... .... .......	............  .......  . . .      ...... ....................... ..   ..........
-As you enter the engine room you feel a scorching, burning all over your skin-- 	suddenly you realize the shield plate is raised!!!  You dash for the button,    	but the heat and radiation is too overwhelming.  You callapse just short of     	safety...dead.
-As you remove the alien suit you notice a dramatic rise in temperature,         	suddenly you notice the protective shield is in the raised position.            	Frantically, you rush to climb back into the suit, but the effort is wasted.    	Seconds later the intense heat and radiation overwhelms you...and you stumble   	to the floor, dead.
+動力室に入ると、あなたは焼け焦げ、皮膚の下まで燃えていることに気づいた―シールド	が上がっている!!! あなたはボタンに向かって走ったが、熱と放射線は強烈だった。あな	たは注意の足りなさで倒れ…死んだ。
+エイリアンのスーツを脱ぐと、温度が非常に上がっていることがわかり、突然防護シール	ドが上がっていることに気づいた。あなたは必死でスーツを着ようとしたが無駄だった。	2秒後、高温と放射線に襲われ…倒れこみ死んだ。
 今度はもっとよく狙った。それは放物線を描き、ちょうど緑色のボタンに当たった。突  	然、頭上のランプが生き生きと輝き出し、暖かい光のシャワーがあなたを包んだ。腕の痛	みがまるで魔法のように消え去り、あなたの体は生き返ったようになった。ランプはしば	らく点滅し、そして消えた。
 …突然、高熱が体を這い回るのを感じると、皮膚から真っ赤な血の泡が吹き出してきた。	あなたは出口へと急いだが、すぐに倒れてしまった。その2秒後…あなたは死んだ。
   あなたは一瞬ためらいボタンを押した。その直後、周りのものが消えてしまうような空	虚な感覚で体が満たされた。あなたの周りの世界がまるで高速撮影のように点滅し始め  	た。近くにあるものが曲がったりねじれたりしながら約1時間が経過した。突然全てが止 	まり…そしてあなたは豆の袋のように床に落ちた!
@@ -37,7 +37,7 @@ As you remove the alien suit you notice a dramatic rise in temperature,         
   突然地面が不規則に揺れ、あなたは背筋を這い回るような恐怖を感じた。揺れは30秒ほ	ど続いたが、次第に弱くなり収まった。
   注意深くクレーターの急斜面を下りている。あなたは途中で足を滑らせ転がり落ち、持	ち物を全て落としてしまった! 探して拾わなければならない…
 ゆっくりと、しかし確実に、急斜面を張り付くように登った。どうにか出ることができ  	た。
-You leap from the bridge into the fast flowing stream below.  The rapid current 	tosses you around like a twig and finally drags you underneath.
+あなたは急な川の流れに飛び込んだ。激しい流れがあなたを小枝のように揺らし、最後は	川底へと引きずり込んだ。
 突然背後の岩陰からフードをした人間のような姿が飛び出しあなたの持ち物を掴み取っ  	た! それはあなたが冷静さを取り戻す前にクレーターの東の端に駆け上がった。
 判断が正しいかはわからないが、あなたた明るいオレンジの光線を通った。電気的なバリ	アを通過すると、突然あなたの手足が見えなくなった。次の瞬間、あなたは別の場所に転	送された…
 天井の隙間から床の隙間へと向かう明るいオレンジ色の光線は、まるで生きているかのよ	うに動いている。光線の幅は大きな扉ほどだ。光線のとなりの壁には看板がかかってい  	る。
@@ -60,13 +60,13 @@ You leap from the bridge into the fast flowing stream below.  The rapid current 
   広大な砂漠の上空にいる。さらに上には厚い雲の層があり、日光を半分ほど遮ってい  	る。遠くには小さな山脈が見える。
   ビルの近くの川に架かったコンクリート製の橋の上空にいる。橋の状態は良く、道路と	ビルをつなぐ通路になっている。道路は北へ向かっているが、緩やかに東へとカーブして	いる。
 前触れもなくエンジンが音を上げて動き出すと、シャトルが屋上から空へと発進し、あな	たは座席に押さえつけられた。シャトルは厚い雲の下、約2500メートルに達した…
-Abruptly the steady humming of the shuttle's engine ceases!  The shuttle tips   	over nose first and plummits toward Earth.  The tremendous gravitational forces 	push all of your limbs back against the seat.  You watch helplessly, and in     	terror as the ground rushes closer...and closer...and closer...and CRASH!!!
-As you move the lever an unforseen panel in the roof slowly slides open.  A     	great rush of wind whips your hair around as you watch.  Suddenly your seat     	snaps upward, ejecting you from the shuttle!!!  You glide freely to the Earth,  	enjoying its natural beauty as you fall.  Maybe, you wonder, you were supposed  	to have the parachute before you used the lever...SPLAT!!!
+突然シャトルのエンジン音が止まった! シャトルは逆さまになり地上へと急降下した。あ	なたは座席に全身を押さえつけられた。あなたはどうすることもできない。地面が近づい	て…近づいて…近づいて…激突した!!!
+レバーを動かすと天井のパネルがスライドして開いた。強い風があなたの髪をかき乱し  	た。突然、座席が上がりシャトルから飛び出した!!! あなたは落下しながら美しい自然の	光景を楽しんだ。もしかすると、レバーを使う前にパラシュートを準備すべきだったのか	もしれない…グチャッ!!!
 シャトルのエンジンが激しく振動し機首が上がった。あなたは再び座席に押さえつけら  	れ、シャトルは厚い雲の層に迫った。雲に突入するとシャトルは乱気流に巻き込まれ、何	も見えなくなった。だがしばらくすると、シャトルは雲の上に到達した。信じられない光	景だ…まるで都市のような構造物が浮いている。
-As you take the key from its slot the shuttle's engine whines, then stops!  The 	vehicle suddenly tilts forward, spiraling towards the ground.  The tremendous   	gravitational forces prevent you from putting the key back in.  You watch with  	horror as the ground moves closer...and closer...and closer...and CRASH!!!
-As you remove the helmet from your head the shuttle begins to tilt to the side. 	Suddenly it begins to spiral down to Earth!  The whiplash caused you to drop the	helmet on the floor.  And the great force of the fall prevents you from leaning 	over and picking it up.  You watch helplessly, and with frustration, as the     	shuttle plummits closer to the ground, and closer...and closer...and CRASH!!!
-The shuttle tilts forward a little and heads southward, dropping slightly in    	altitude.  As you move closer to the landing area you notice some rubble        	directly in your path.  Too late to react, though, you brace yourself against   	the seat as the shuttle hits the jagged piece of concrete...the shuttle slides  	for about 60 feet before coming to rest.  As you check yourself over, you       	notice a thin whisp of smoke coming from the shuttle's controls.
-  From here you can see many large buildings and towers, with an interlaced     	network of roads and tubes weaving in an around the other structures.  A bright 	glow radiates downward from under the city, disappearing into the dusty clouds.
+キーを抜くとエンジンが弱々しくなり、そして止まった! シャトルが前のめりになり、き	りもみ状態で地上へと向かった。あなたはキーを戻すまでもなく座席に全身を押さえつけ	られた。恐怖の中、地面が近づいて…近づいて…近づいて…激突した!!!
+ヘルメットを脱ぐと、シャトルが横に揺れ始めた。突然、きりもみ状態で地上へと向かい	始めた! あなたは衝撃でヘルメットを落としてしまった。そして拾う間もなく座席に全身	を押さえつけられた。あなたはどうすることもできない。地面が近づいて…近づいて…近	づいて…激突した!!!
+シャトルは緩やかに機首を下げ、高度を下げながら南へと向かった。着地地点に近づいた	とき、あなたは進路の瓦礫に気づいた。反応したときには既に遅く、シャトルはコンクリ	ートの塊とぶつかり、あなたは思わず座席にしがみついた…シャトルは20メートル程滑っ	たあと停止した。起き上がり見てみると、シャトルの操作盤から細い煙が出ていた。
+  ここからは無数のビルや建物とそれに絡みつくような道路網やチューブが見える。明る	い光が都市の下から照射され、灰色の雲の向こうで見えなくなっている。
   You enter the room thinking about the distinctively repulsive smell.  From the	corner of the room you hear a strange gurgling noise, look up, and freeze in    	your tracks!  Standing there, with slime dripping from its gapping mouth, is a  	creature groveling in the food supply.  Its three arms shoveling food in its    	jaws with timed precision.  Hearing your sweat drip on the floor, the creature  	looks up, sees you, and lunges toward you with burning eyes!
   The large monster is about eight feet tall, with three long arms fitted with  	thick claws.  Its slobbering jaws drip with slime.
 The slobbering monster dives at your feet and catches your leg with one of its  	clawed hands!  As it climbs to its feet though, you fly into a wild struggle    	and just manage to shake loose.  You jump forward, perform an acrobatic roll,   	spring to your feet, and sprint away!  The creature, however, is still right    	behind you.
