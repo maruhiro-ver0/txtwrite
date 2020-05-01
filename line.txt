@@ -58,9 +58,9 @@
 ロープを引くとひび割れに引っかかった。ロープの先に見えるのは…
 あと少しで通れそうだが、持ち物がじゃまだ。
 懐中電灯が点滅し始めた。今にも消えそうだ!
-That sentence doesn't make much sense.
+その文章は無意味だ。
 You can't give what you don't have to begin with!
-The alien creature humbly accepts your gift...and eats it!
+怪物はそれをつつましく受け取り…食べた!
 どうにかロープの端までたどり着いた。
 間違いなく滑り落ちて死んでしまうだろう。
 Although you don't displace much dirt, you do notice that the ground is soft.
@@ -298,10 +298,10 @@ Static electricity crawls up and down your arm like millions of hungry ants!
 青いキャビネットの高さは2メートル程で、扉には錆びた錠前が付いている。
 キャビネットは空いている。
 キャビネットは閉まっている。
-Do you really expect that to happen!
-Let's face it chum, no can do.
-A magician you are not!
-The odds of that happening are less than the odds of the Titanic being raised!
+どうなると思っているのか!
+現実を見ろ、できるわけがない。
+あなたは魔法使いではない!
+それはタイタニック号が浮かび上がるくらいありえない!
 これは「何でもあり」のおとぎばなしではない!
 You don't own much stock in reality, do you?!
 The object plunges into the water and disappears!
@@ -314,7 +314,7 @@ You would undoubtedly shred your hands to ribbons on the barbed wire!
 The barbed wire fence is about seven feet tall.
 The door closes with a small click from the lock.
 The rusty lock glows bright red for a moment then cools off.
-The first word must be a verb or a command.  (e.g. drink, score, take.)
+最初の単語は動詞かコマンドです。(例: drink, score, take)
 どうやって? 何を使って?!
 まずスーツを脱がなければならない。
 ヘルメットは被るとあなたの頭の形にぴったりになった!
@@ -354,20 +354,20 @@ You see a bright glow radiating from beneath the city into the dusty clouds.
 シャトルは少しへこみ、左側にひび割れがある。
 この空飛ぶ都市から飛び降りたいのか?!
 はしごの先は真っ暗だ。
-You notice a sour smell here, reminding you of the cave with the cages.
-There is a three-armed, slobbering creature heading straight at you!!
+ここは洞窟にあった檻のような不快な臭いがする。
+3本腕の粘液を垂らした怪物が一直線にあなたに向かっている!
 その方向からはシャトルから出られない。
-The creature leaps at your feet and barely misses!
-The monster follows you, wildly waving his three clawed hands at your neck!
-You just manage to escape a swift claw attack from the pursuing creature!
-The creature dashes after you!
-You barely evade the attacking monster as you escape the room!
+怪物はあなたの足に飛びついたが、わずかのところでかわした!
+怪物はあなたを追っている。あなたの首の近くで腕を荒々しく振り回した!
+追ってくる怪物の爪をどうにかかわした!
+怪物が追ってきた!
+怪物の攻撃をギリギリのところでかわして部屋を脱出した!
 The shelves are packed with crates that contain food supplies for the city.
 The monster examines you with a puzzled face, then resumes its vicious attack!
 With one easy swing the creature breaks both of your arms!!!
 OK, see you next time...
 He looks mean and hungry!
-The creature does not look amused by your action.
+怪物はあなたの行動に見向きもしなかった。
 However, it's about to be Creature - 1, Player - 0!
 We all need help!
 Have you tried to escape yet?
@@ -376,7 +376,7 @@ Have you examined the flashlight and rope yet?
 The orange beam carves a small notch in the creature's outstretched arm!
 An orange streak of light scars the creature's chest!  It roars in pain.
 In your nervousness you miss the monster completely, but scare it off slightly.
-The orange ray disintegrates a small patch of skin from the creatures leg!
+オレンジ色の光線は怪物の足の皮を少し傷つけただけだった!
 With an awesome display of agility, the slimy, slobbering creature snatches the
   Restarting...
 The gooey, melted remains of the alien creature form a puddle on the floor.
@@ -384,14 +384,14 @@ There's a tape cartridge of some kind lying in the creature's melted remains.
 The creature seems to sense danger and does not follow you into the engine room!
 You sneak into the room while the alien creature is sniffing at some controls...
 At the moment the screen is blank.
-You see multi-colored patterns, changing and shifting erratically.
+様々な色が不安定に変わったり動いたりしている。
 A few of the large screens display rapidly shifting patterns!
   It is inside the slot.
   それはキャビネットの棚の上にある。
   それはパネルの奥にある。
   それはサバイバルキットの中にある。
 : Is one too many nouns!
-' does not make sense here.
+' という単語はここでは無意味だ。
 針金はとても細いが丈夫だ。長さは約5センチメートルだ。
 You can't see any living creature to speak with.
 The monster looks at you and waves one of his three arms!

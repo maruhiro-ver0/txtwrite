@@ -68,10 +68,10 @@ Empty File 3...
   浮遊する都市の西側の200メートル程はなれた場所を飛行している。ここからは都市に 	張り巡らされた道路網がよく見える。最も高いビルの影がこのシャトルにかかっている。	人はまだ見えない。
   浮遊する都市のような構造物が北側に見える。巨大な建物の陰になっているため都市の	中心は見えない。大きなチューブが外側に張り巡らされていて、人々はそこを通って建物	を行き来していたようだ! ここからは都市には入れなさそうだ。
   北に見えるコンクリートの塊と衝突して故障したシャトルの中にいる。シャトルの操作	盤から細い線のような煙が上がっている。                                          	  シャトルはコンクリート製の広い港のような場所に停まっている。南東には下へと向か	う階段がある。北側には地平線まで雲が見え、その他の方向は建物が視界を遮っている。
-  ここはコンクリート製の広い港だ。南に見えるあなたのシャトルは底が少し歪んでい  	る。北の方角以外はチューブ上の道が張り巡らされた巨大な建物がパノラマ状に広がって	いる。南西の暗い道は建物の地下へと続いている。
-  You are in a small room with the walls lined with controls, machines, dials,  	and screens.  There is no activity between any of them, however.  The steps to  	the northwest lead back to the concrete bay.  Another doorless passage leads    	east, into a dimly lit room.
-  This area is only a small section of a long corridor, heading both north and  	south.  Passages exit both east and west, also.
-  This area is only a small section of a long corridor, heading both north and  	south.  Passages exit both east and west, also.
-  This area is only a small section of a long corridor, heading both north and  	south.  Passages exit both east and west, also.
-  You are in a supply room filled with crates and containers--all labeled with  	some type of food!  You see in the corner of the room where the door lies,      	mangled and twisted like the hatch you saw in the shuttle, both appearently     	ripped open by the alien creature that escaped from the empty cage you found in 	the zoo room.  The only exit lies to to north.
-  This is an empty cabin, with no bed, no chairs or tables, and no way out!  The	door to the north has been lock and chained from the outside!
+  ここはコンクリート製の広い港だ。南に見えるあなたのシャトルは底が少し歪んでい  	る。北の方角以外はチューブ上の道が張り巡らされた巨大な建物がパノラマ状に広がって	いる。南東の暗い道は建物の地下へと続いている。
+  小さな部屋にいる。壁には制御盤や機械、ダイヤル、スクリーンがならんでいるが、動	いていない。北西の階段でコンクリートの港に戻ることができる。東には薄暗い部屋へと	続く扉のない通路がある。
+  ここは長い通路の途中にある狭い区画だ。通路は南北に伸びているが、東西にも通路が	ある。
+  ここは長い通路の途中にある狭い区画だ。通路は南北に伸びているが、東西にも通路が	ある。
+  ここは長い通路の途中にある狭い区画だ。通路は南北に伸びているが、東西にも通路が	ある。
+  ここは倉庫で箱やコンテナで満たされている―全て食品のラベルが付いている! 部屋の	隅にシャトルの中で見たような壊れて曲がったハッチと扉があるが、どちらも「動物園」	から逃げ出した怪物に壊されて開いている。出口は北にしかない。
+  ここはベッドも、椅子も、テーブルも、そして出口もないキャビンだ! 北の扉は外から	鍵を掛けられ、鎖を巻かれている!
