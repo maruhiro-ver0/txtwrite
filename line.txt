@@ -19,7 +19,7 @@
 どうにか隙間を通ることができた!
 目に入るのはきらめく星々を映す氷の水面だけだ。
 スーツの大きさは合わないが、とても快適だ。
-バナナはグチャグチャになった!
+バナナはすぐにグチャグチャになった!
 頭を強烈にぶつけてしまった!
 さらに進むと腰まで泥に浸かってしまった。
 もう一歩進むと、あなたは深い泥の穴に落ちてしまった。
@@ -59,43 +59,43 @@
 あと少しで通れそうだが、持ち物がじゃまだ。
 懐中電灯が点滅し始めた。今にも消えそうだ!
 その文章は無意味だ。
-You can't give what you don't have to begin with!
+与える必要がないものを与えることはできない!
 怪物はそれをつつましく受け取り…食べた!
 どうにかロープの端までたどり着いた。
 間違いなく滑り落ちて死んでしまうだろう。
-Although you don't displace much dirt, you do notice that the ground is soft.
-The stake won't go into that!
-The metal stake is in as far as it's going to go.
-The object sinks into the soft sloppy mud!
+泥を取り除くことはできなかったが、地面は柔らかいようだ。
+棒は刺さらなかった!
+金属の棒は沈んでいった。
+柔らかい泥の中に沈んでいった!
 金属の棒を地面に突き刺した。
 ロープは谷底に落ちてしまった。たぶん永遠に!
 ロープは谷底へとぶら下がっている。
-About a second and a half later you hear a dull thud!
+1.5秒後にドスンという音が聞こえた!
 なぜ? 泥遊びをしたいのか!
-All you see is pitch black darkness.
-You see the flashlight swaying back and forth.  You can't see the bottom though!
+暗闇が広がっている。
+懐中電灯を前後に振ったが底は見えない!
 それは谷の奥深くで見えなくなった!
-If it needs fixing then stop talking about it--do it!
-There's nothing there worth noting, unless you collect dust!
-You're too excited about escaping from this place to sleep!
-Why would you want to turn that, and where would you turn it to?
-No matter how hard you wish, it just won't take off!
-Are you feeling OK?  You're already standing!
+もしその必要があるならば、話している暇はない―するのだ!
+価値のありそうなものは何もなく、ほこりを集めただけだった!
+ここから逃げ出すのに必死で眠れない!
+なぜそれを変えようとするのか。そしてどうやって?
+どうやってもそれは浮かばない!
+だいじょうぶか? もう立っている!
 どうやって? まさか歯で!?!
-As you take you best swing the creature grabs the knife...and eats it!!!
+ナイフを振り回したが怪物はそれを掴み取り…食べた!
 下りようとしてももうロープがない!
 ロープにつかまるので精一杯だ!
 この状態ではもう何も持てない!
-You are in too weak of a condition to carry many things at once!
+そんなに多くのものを運べないくらい弱っている!
 この懐中電灯は防水性だ。後ろにはフックのような金属の輪がついている。
 死骸はどれも見たことのない動物のものだ。
 あまりにも恐ろしく奇怪で触れない!
 青い毛皮の切れ端がある!
 中に興味深いものはなかった。
-There's no opening to reach in.
-The banana is reduced to pudding!
-On inpact the flashlight shatters into a dozen pieces.
-You bump your shin on the edge of the saucer.
+開いているところはない。
+バナナはグチャグチャになった!
+衝撃で懐中電灯は粉々になった。
+円盤の端にスネをぶつけてしまった。
 痛みをこらえながらどうにかハッチを開けた!
 ハッチが閉じていて進めない。
 この原子炉はエイリアンの宇宙船の動力源だ。シールドで守られている。
@@ -123,46 +123,46 @@ The door is bolted shut.
 それはできそうにない。
 何も変わらないようだ。
 あなたは座り、しばらく考え込み、そしてまた立ち上がった。
-You feel nothing unusual.
-You see nothing of interest.
-あなたはそれを燃やせるものを持っていない。
-I don't think your tailor would approve!
+おかしなところは何もない。
+興味深いものは何もない。
+それを燃やせるものを持っていない。
+あなたの仕立て屋だって勧めないだろう!
 その文は不完全だ。
-I don't understand that sentence.
+その文は理解できない。
 2番目の名詞か目的語が必要だ。
 名詞か目的語が必要だ。
 長さは10メートル程でとても丈夫そうだ。
-OK, the room descriptions will not be shown anymore.
-OK, the room descriptions will be shown in full every time you change rooms.
+部屋の状況を表示しません。
+移動するたびに部屋の状況を表示します。
 わーーーーい!
 しばらくの間、明るい緑色の光が東側のチューブを満たした。
 スーツをエイリアンから慎重に脱がせたが、状態は良さそうだ。
 エイリアンの死体には頭のひどい傷以外の損傷はないようだ。
-Most of the controls appear incomprehensible, though flickering lights indicate
-that they still work.  A small screen stands out, with a small slot below it.
-There is a tape in the slot.
-The slot is empty.
+操作盤は複雑でほとんど何もわからないが、点滅するランプを見ると動作しているよう
+だ。小さなスクリーンが付いていて、その下には小さなスロットが付いている。
+スロットにはテープが入っている。
+スロットは空だ。
 そちらへは行けない。
 何にタイプするつもりなのか!
 砂の中に錆びた金属の棒の端が少し見える。
   金属の棒が地面に突き刺さっている。
-That might be possible if you could fix it first!
-There is not an on/off switch on the computer.
-You must try to be a little more specific.
-You see a ladder and small flashes of light.
-You feel a fresh breeze coming out of the vent.
+その前に直さなければならない!
+機械にオン・オフのスイッチはないようだ。
+もう少し具体的でなければならない。
+はしごと小さなランプの光が見える。
+通気口から新鮮な空気が流れている。
 棚には複雑な機械が並んでいて役立ちそうなものはない。
 入り組んだ機械の間から銃のようなものを見つけた!
 画面には何も映っていない。
 テーブルの上にある小さなビンがかすかに光っている!
-You've uncovered a long metal stake, slightly rusted.
+長い少し錆びた金属の棒を掘り出した。
 あなたはロープを引きずっている。
 パネルを力ずくで開けようとしたがびくともしなかった。
-The panel, made of some alien alloy, cannot be destroyed.
-The keypad has ten buttons, labeled 0 through 9.
+エイリアンの合金で作られたパネルは壊れなかった。
+キーボードには10個のキーがあり、0から9までの数字が書かれている。
 開ける方法が見当たらない。
 茶色のビンには開けられるフタがない。奇妙な光がビンを覆っている。
-The three foot long metal stake is slightly rusted.
+1メートルの長さの金属の棒は少し錆びている。
 小さな薬は光を放っている。
 エイリアンのスーツの状態は良さそうだ。
 傷だらけの合衆国25セント硬貨、年代は2111年だ!
@@ -176,11 +176,11 @@ The three foot long metal stake is slightly rusted.
 まずスーツを取らなければならない。
 銀色のダイヤルは音を立てて新しい番号に合わさった。
 金色のダイヤルは音を立てて新しい番号に合わさった。
-That dial does not have that number on it!
+その数字はダイヤルにない!
 よく狙い、そっと投げたが当たらなかった。
-On the ceiling is some sort of vent.
-You notice nothing unusual about the ceiling here.
-The ceiling here is crowded with unusual rock formations.
+天井には通気口のようなものがある。
+天井に特別なものはなさそうだ。
+奇妙な形をした岩がたくさんある。
 パネルの奥は空だ。
 パネルは閉じている。
 まずキットを開けなければならない。
@@ -191,11 +191,11 @@ The ceiling here is crowded with unusual rock formations.
 複数の方向があるため、方向を指示しなければならない。
 現在のあなたの状態:
 飢えで弱ってきた。
-You get down and bogie for a moment, then look around, somewhat blushed!
+あなたはブギウギをダンスし、辺りを見渡し、恥ずかしくなった!
 ビンの中から何かが転がる音がした。
-You discover nothing by that action.
-Since you cannot move that, you cannot shake it!
-You can't find a good spot to put it.
+何も起こらなかった。
+動かせないものを振ることはできない!
+置くのによさそうな場所が見つからなかった。
 バナナの皮は剥かれているが、あまりおいしくなさそうだ。
 バナナには皮が付いている。
 懐中電灯の明かりは点いている。
@@ -206,15 +206,15 @@ You can't find a good spot to put it.
 シールドは上がっていて、致死量の放射線に曝されている。
 シールドは閉じていて、原子炉の放射線からあなたを守っている。
 比較的調子がよい。
-You don't have a gun in your possession!
-A blinding prismatic glow engulfs the chair, then slowly fades away.
-You reluctantly settle into the uncomfortable metal chair, your feet dangling!
-You happily lift yourself from the chair's hard surface.
-It would help if your feet were touching the floor!
+銃を持っていない!
+まぶしいプラズマ状の光が椅子を包み、ゆっくりと消えていった。
+硬い金属の椅子にしかたなく座った。足がとどかない!
+あなたは固い椅子から勢いよく立ち上がった!
+床に足が着いていればできたのだが!
 光線が床に命中して焦げ跡を作った!
-船橋の端に見慣れないものが落ちている。
+橋の端に見慣れないものが落ちている。
 恐ろしくてとても中には入れない!
-That doesn't seem to help.
+それはできそうにない。
 円盤のハッチは開いている。
 円盤のハッチは閉じている。
 箱の陰で何かが這い回る音が聞こえた。
@@ -223,76 +223,76 @@ That doesn't seem to help.
 鎖は光線で熔けてなくなった。
 扉がゆっくりと開いた。
 パイプから大きな音がしたが壊せなかった。
-The cage door won't budge, it seems to be stuck.
-The crator is a huge pit sunken into the earth, miles across.
+檻はびくともしなかった。
+この大地に開けられたこの大穴は直径数キロメートルはある。
 設備は複雑すぎで理解できない。
-The huge building looks neglected, a metal door is the only visible entrance.
-The building consists of walls, a floor and a ceiling.
-The wooden bridge appears to be about 50 years old.
-The vent looks like it might be used to circulate air throughout the saucer.
-Unfortunately, you were IN the suit!
-Your body explodes in a prismatic array of light...the gun drops to the ground.
+巨大なビルは放棄されているようだ。見える入り口は金属の扉だけだ。
+ビルには壁と床と天井がある。
+この木の橋は50年程前に作られたものだろう。
+通気口は円盤内の空気を循環させるためのもののようだ。
+不幸なことに、スーツの中にはあなたがいる!
+あなたは七色の光のすじになって爆発し…そして銃が地面に落ちた。
 そんなにたくさんの物を一度に持てない!
-First the bottle must be open!
+まずビンを開けなければならない!
 バナナの皮を戻そうとしたができなかった。
 まず開けなければならない!
-You'd think that there would be a button for something like that!?
-The shuttle doesn't have a door.
-The suit fits without any special straps or buttons.
-The tube doesn't have a door.
-There's no way to close that.
+何のためにボタンがあると思っているのか!?
+シャトルには扉がない。
+スーツには紐やボタンがない。
+チューブには扉がない。
+それを閉める方法がない。
 突然ものの重さがなくなったように感じ、全てが輝き始めた。
-次の瞬間、あなたは大きな固い椅子の上に落ちた。
-Are you sure (Y or N)?
+次の瞬間、あなたは大きな硬い椅子の上に落ちた。
+本当に? (Y または N)
 一瞬、エンジンのようなうなる音がかすかに聞こえた。
-The ground here is too hard to dig in.
-There is no ground to dig into around here.
-You manage to chip away only a small amount of ice.
-The hexagons are too strong to be damaged, or dug into.
-The wall is too solid to dig into.
-For an instant you see a large shadow move away!
+地面は硬くて掘れない。
+ここには穴を掘れるような地面がない。
+氷の破片を削り取っただけだった。
+六角形はとても硬く、傷つけることも掘ることもできなかった。
+壁は硬くて掘れなかった。
+大きな影が逃げ去るのを見た!
 この青い毛皮の切れ端は檻から逃げ出した生き物のもののようだ。
-The walls, and the passage, appear to be carved by man, with great heat!
-The huge saucer is pie-shaped, and over 50 meters across.  The silver colored
-metal is glass smooth.  The saucer is well embedded into the earth, only ten
-meters of the ship protrude above the ground.
+この壁も、通路も人によって作られたもののようだ。なんという情熱だ!
+巨大な円盤はパイのような形で、直径は50メートル以上ある。銀色の金属はまるでガラ
+スのように滑らかだ。地面にしっかりと埋まっていて、地面から10メートルしか突き出
+ていない。
 落盤のせいで進めない。
 ロープを短い2本にしても無意味なので、あなたはロープを切るのをやめた。
-You raise the blade to your throat, then come to your senses!
+自分の喉に刃を向け、そして我に返った!
 ギラギラと光るドロドロしたものがパイプから流れ込んでいる。
-The slime and jelly feels sticky and repulsive.
+粘液はネバネバとしていて不快だった。
 壁はガラスのように滑らかで登れない。
-OK, returning to last game position...
+ゲームに戻ります…
 頭の上でコウモリが飛ぶ音が聞こえた。
 巨大な魚が頭の上で止まり、あなたを調べまわり、そして興味なさげに泳ぎ去った。
 ネズミのような小さな生き物が床の上を横切り、機械の下に隠れた。
 タイタニック号の残骸が流れて行き、そして見えなくなった。
 天井の通気口からガタガタという音が聞こえた。
-The strange wall has collapsed and vanished!
-The door is bolted shut!
+不思議な壁は崩壊して消えた!
+扉は外から鍵を掛けられている!
 休まなければならないほど疲れていない。
 エイリアンのスーツの状態は悪くなさそうだ。
 道路を50メートル程歩いた…
 急なコンクリートの壁は越えられない!
 砂に半分埋まった針金の切れ端がある。
 慎重にクレーターの急斜面を滑り降りた。
-A thick, prickly growth of weeds blocks your path.
+生い茂った棘のある草のせいで進めない。
 歩き回り、岩を調べ、足跡を追った。
 黄色く輝く流れ星が漆黒の空を横切り消えた。
-The effects of the glowing pill are beginning to wear off, your stomach growls.
-You are very hungry and thirsty now.
-You are about to pass out from lack of water and food!
-You stagger, then keel over from lack of water.  Everything fades to black...
+薬の効果が切れていて腹が鳴り始めた。
+とても空腹で喉が渇く。
+空腹と喉の渇きで気絶しそうだ!
+喉の渇きでふらつき倒れた。目の前が真っ暗になる…
 まるで雷鳴か爆発のような低い音が聞こえた。
 ゆっくりと、冷たい水に膝まで浸かりながら渡った…
-You awake about 20 minutes later at the side of a dirt road.
-You find nothing but dirt and footprints.
-The rather large boulders are scattered all around.  They look somewhat black.
+20分後に泥道の脇で目覚めた。
+泥と足跡しか見つからなかった。
+やや大きな岩があちらこちらに散らばっている。どれも黒くなっている。
 破片と壊れた扉に注意しながら通った…
-A tall fence blocks your path.
+高いフェンスのせいで勧めない。
 壊れたガラスの扉の破片がビルの前の通路に散乱している。
-A small flash of orange light engulfs the object as it vanishes into the beams.
-Static electricity crawls up and down your arm like millions of hungry ants!
+オレンジ色の光線を通ると見えなくなった。
+静電気が腕を数百万匹のアリのように這い回った!
 木片、焦げた岩、ゴミが辺りに散らばっている。
 端から落ちて急流に流されてしまうだろう!
 青いキャビネットの高さは2メートル程で、扉には錆びた錠前が付いている。
@@ -303,17 +303,17 @@ Static electricity crawls up and down your arm like millions of hungry ants!
 あなたは魔法使いではない!
 それはタイタニック号が浮かび上がるくらいありえない!
 これは「何でもあり」のおとぎばなしではない!
-You don't own much stock in reality, do you?!
-The object plunges into the water and disappears!
-The object sinks in the water and vanishes!
+本当にできるとは思っていないですよね?!
+水の中に沈んで見えなくなった!
+水に沈んで見えなくなった!
 坂道を通るとき、かすかに不快な臭いがした。
 洞窟に入ると耐えられないような臭いがした。
 臭いは少しましになった。
 坂道から戻ると新鮮な空気が鼻を洗い流した。
-You would undoubtedly shred your hands to ribbons on the barbed wire!
-The barbed wire fence is about seven feet tall.
-The door closes with a small click from the lock.
-The rusty lock glows bright red for a moment then cools off.
+有刺鉄線で手が傷だらけになってしまうだろう!
+有刺鉄線のフェンスの高さは2メートルだ。
+錠前から小さな音を立てて扉が閉まった。
+錆びた錠前が赤く輝いたが、すぐに冷えて元通りになった。
 最初の単語は動詞かコマンドです。(例: drink, score, take)
 どうやって? 何を使って?!
 まずスーツを脱がなければならない。
@@ -332,23 +332,23 @@ The rusty lock glows bright red for a moment then cools off.
 緊急救命箱を閉じた。
 安全ベルトが外れた。
 驚くべき氷の洞窟を歩き回った…
-From out of nowhere the game's designer appears and leads you to safety....
+どこからともなくゲームデザイナーが現れ、あなたを安全に導いた…
 まずヘルメットを脱がなければならない。
 輝く鍵は鍵穴にささっている。
 輝く鍵は鍵穴にぴったりと合った!
 未来的なヘルメットの横には「飛行用」と書かれている。
-A few dusty shelves.
-You suddenly realize you've been walking westward for the last half hour!!!
+ホコリっぽい棚
+30分前から西に向かって歩いていることに気づいた!!!
 ここで着地したらシャトルが壊れてしまう!
-You bail out of the shuttle and soar effortlessly into the ground...
+あなたはシャトルを飛び出すと真っ直ぐに地上へと向かった…
 雲の上をしばらく飛行した…
 エンジンの出力を増したがこれ以上上昇できなかった。
 シャトルが前に傾き雲に飛び込んだ…
-You can't spot a safe place to land the shuttle.
+シャトルを安全に着地できる場所を見つけられなかった。
 シャトルは建物と衝突した…
-You see nothing special about the city from this vantage point.
+ここからは都市には特別なものは見えない。
 エンジンがうなり声を上げ、雲の上へと登っていった…
-You see a bright glow radiating from beneath the city into the dusty clouds.
+都市の下の発光体から明るい光が灰色の雲に向かって照射されている。
 操作盤から火花が散ったが、何も起こらなかった。
 シャトルの操作盤は故障しているようだ。
 シャトルは少しへこみ、左側にひび割れがある。
@@ -362,31 +362,31 @@ You see a bright glow radiating from beneath the city into the dusty clouds.
 追ってくる怪物の爪をどうにかかわした!
 怪物が追ってきた!
 怪物の攻撃をギリギリのところでかわして部屋を脱出した!
-The shelves are packed with crates that contain food supplies for the city.
-The monster examines you with a puzzled face, then resumes its vicious attack!
-With one easy swing the creature breaks both of your arms!!!
-OK, see you next time...
-He looks mean and hungry!
+棚には都市に供給される食料の入ったコンテナでいっぱいだ。
+怪物は不思議そうな顔をしてあなたを見たが、また攻撃し始めた!
+怪物が腕を振り回すとあなたの両腕は簡単に折れてしまった!!!
+次はもっとうまくやりましょう…
+とても恐ろしげで、空腹そうだ!
 怪物はあなたの行動に見向きもしなかった。
-However, it's about to be Creature - 1, Player - 0!
-We all need help!
-Have you tried to escape yet?
-Have you thought about fixing your arms?
-Have you examined the flashlight and rope yet?
-The orange beam carves a small notch in the creature's outstretched arm!
-An orange streak of light scars the creature's chest!  It roars in pain.
-In your nervousness you miss the monster completely, but scare it off slightly.
+だが、怪物 - 1、プレイヤー - 0になりそうだ!
+みんな助けを必要としている!
+まだ逃げようとしているのか?
+腕を直そうとしたか?
+ロープと懐中電灯は調べたか?
+オレンジ色の光線が襲い掛かる怪物の腕に小さな傷を作った!
+オレンジ色の光線が怪物の胸に焦げ跡を作った! 怪物は痛みで叫んだ。
+緊張で外してしまったが、怪物を驚かせることはできた。
 オレンジ色の光線は怪物の足の皮を少し傷つけただけだった!
-With an awesome display of agility, the slimy, slobbering creature snatches the
-  Restarting...
-The gooey, melted remains of the alien creature form a puddle on the floor.
-There's a tape cartridge of some kind lying in the creature's melted remains.
-The creature seems to sense danger and does not follow you into the engine room!
-You sneak into the room while the alien creature is sniffing at some controls...
-At the moment the screen is blank.
+素晴らしい素早さで、粘液を垂らした怪物は
+  再開します…
+ドロドロに溶けた怪物の残骸が水溜りのようになっている。
+溶けた怪物の残骸の中にテープ・カートリッジのようなものがある。
+怪物は危険を察して動力室まで追ってこなかった!
+怪物が機械を嗅ぎまわっている間に部屋に忍び込んだ…
+今はスクリーンには何も映っていない。
 様々な色が不安定に変わったり動いたりしている。
-A few of the large screens display rapidly shifting patterns!
-  It is inside the slot.
+いくつかの大きなスクリーンには素早く切り替わる模様が浮かんでいる!
+  それはスロットの中にある。
   それはキャビネットの棚の上にある。
   それはパネルの奥にある。
   それはサバイバルキットの中にある。
@@ -394,30 +394,30 @@ A few of the large screens display rapidly shifting patterns!
 ' という単語はここでは無意味だ。
 針金はとても細いが丈夫だ。長さは約5センチメートルだ。
 You can't see any living creature to speak with.
-The monster looks at you and waves one of his three arms!
-The monster shakes his head as if to say, "Believe me, I will!"
-The monster stops in his tracks to listen, while he licks his slobbering chops!
-The creature looks at you with hungry eyes, wishing you would shut-up!
-As you speak the monster leans against the wall, as if he is slightly bored!
-The creature utters a few strange words back to you and resumes the chase!
-The rope falls off the thrown object.
-It looks like a rectangular cartridge, with small notches at one end.
+怪物はあなたを見ながら3本の手を振った!
+怪物は「信じてくれ、そうする! 」と言うかのように頭を振った。
+怪物は立ち止まって聴いたが、すぐに舌なめずりをした!
+怪物は黙って欲しそうに飢えた目であなたを見た!
+あなたが話をしているとき、怪物は壁にもたれかかり退屈そうにしていた。
+怪物は何かつぶやき、あなたを再び追い始めた!
+投げたものからロープが解けた。
+四角いカートリッジのようなもので、端に小さな切り込みが付いている。
 鍵穴には何も挿さっていない。
 救命ボートを探す乗客たちがあなたの近くを通り過ぎた!
 地平線の間際で爆発の閃光が一瞬見えた。
 におったり、つついたり、なめたり、話しかけたりしたが、何もないことがわかった。
-Raised letters read: "LOWER ELEVATOR ACCESS CARD.  IF FOUND RETURN TO FLOYD."
-The card slips and disappears behind the locked door!
-The mangled door looks like it was ripped open.
-The mangled door is stuck open, it can't be moved.
-The lower, mangled door is already open.
-The door slides open for a moment then closes.
-The door does not budge.
-Just because it looks like a stove doesn't mean it is a stove!
+「下層エレベータのアクセスカード。見つけたらフロイドに返却すること」
+カードがロックされた扉に取り込まれ見えなくなった!
+壊れた扉は切り裂かれたように開いている。
+壊れた扉は開いたまま動かない。
+下の壊れた扉は既に開いている。
+扉がスライドして開き、しばらくすると閉じた。
+扉はびくともしない。
+それはストーブのようだが、ストーブだという意味ではない!
 刃が箱に深く突き刺さったナイフがある。
 少し引っ張るとナイフは簡単に抜けた。
-The dial goes from 'A' to 'Z.'
-The lifeboat rocks a little as you try to take the thick rope!
-How sad it is, reduced to a crawler!
+ダイヤルはAからZまである。
+太いロープを取ろうとすると救命ボートが少し揺れた!
+何と惨めな。まるで芋虫だ!
 おかしな音が聞こえた!
 ビンの中はまぶしくてよく見えない。
